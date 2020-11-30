@@ -10,11 +10,11 @@ private:
     int m_y;
 
 public:
-    Point() // 可以有参数，可以被重载
+    Point() // 可以带参数 可被重载
     {
         cout << "构造函数被调用" << endl;
     }
-    ~Point() // 没有参数，不可被重载
+    ~Point() // 不可带参数 不可被重载
     {
         cout << "析构函数被调用" << endl;
     }
@@ -61,7 +61,7 @@ public:
     }
 };
 
-// 判断点和圆关系
+// 判断点和圆的关系
 void isInCircle(Circle &c, Point &p)
 {
     int distance = (c.getCenter().getX() - p.getX()) * (c.getCenter().getX() - p.getX()) +
