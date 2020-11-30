@@ -9,26 +9,26 @@ public:
   int m_age;
   Person()
   {
-    // cout << "æ— å‚æ„é€ å‡½æ•°è¢«è°ƒç”¨" << endl;
+    // cout << "ÎŞ²Î¹¹Ôìº¯Êı±»µ÷ÓÃ" << endl;
   }
   Person(int age)
   {
     m_age = age;
-    // cout << "æœ‰å‚æ„é€ å‡½æ•°è¢«è°ƒç”¨" << endl;
+    // cout << "ÓĞ²Î¹¹Ôìº¯Êı±»µ÷ÓÃ" << endl;
   }
   Person(const Person &p)
   {
-    // cout << "æ‹·è´æ„é€ å‡½æ•°è¢«è°ƒç”¨" << endl;
+    cout << "¿½±´¹¹Ôìº¯Êı±»µ÷ÓÃ" << endl;
   }
   ~Person()
   {
-    // cout << "ææ„å‡½æ•°è¢«è°ƒç”¨" << endl;
+    // cout << "Îö¹¹º¯Êı±»µ÷ÓÃ" << endl;
   }
 };
 
 void test01()
 {
-  Person p1 = Person(20);
+  Person p1 = Person(19);
   Person p2 = Person(p1);
   cout << "age of p2:" << p2.m_age << endl;
 }
@@ -58,7 +58,8 @@ void test03()
 
 int main(int argc, char const *argv[])
 {
-  // test01();
-  test03();
+  test01();
+  // test02();
+  // test03();
   return 0;
 }
