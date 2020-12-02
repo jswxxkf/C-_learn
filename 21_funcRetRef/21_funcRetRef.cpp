@@ -5,8 +5,8 @@ using namespace std;
 
 // int &test01()
 // {
-//     int a = 10; // 局部变量存放在四区中的栈区
-//     return a;
+//     int 46_多态应用_制作饮品 = 10; // 局部变量存放在四区中的栈区
+//     return 46_多态应用_制作饮品;
 // } // 此写法直接编译不通过 返回的引用指向局部变量a
 
 // int main(int argc, char const *argv[])

@@ -23,10 +23,10 @@ int main(int argc, char const *argv[])
     // int &b;  // ✖
     // 2. 引用一旦初始化，就不可以更改了
     // &b = c; // ✖
-    int &b = a; // 相当于 int *const b = &a;
+    int &b = a; // 相当于 int *const b = &46_多态应用_制作饮品;
     b = 20;
     // b = c; // 意思是把10赋值给b引用的内存中的值
-    cout << "a=" << a << endl;
+    cout << "46_多态应用_制作饮品=" << a << endl;
     // 引用传递
     mySwap(a, c);
     return 0;

@@ -9,11 +9,11 @@ public:
   Base()
   {
     this->a = 100;
-    cout << "Base¹¹Ôìº¯Êı!" << endl;
+    cout << "Baseï¿½ï¿½ï¿½ìº¯ï¿½ï¿½!" << endl;
   }
   ~Base()
   {
-    cout << "BaseÎö¹¹º¯Êı!" << endl;
+    cout << "Baseï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½!" << endl;
   }
   int a;
 };
@@ -24,11 +24,11 @@ public:
   Sub()
   {
     this->a = 200;
-    cout << "Sub¹¹Ôìº¯Êı!" << endl;
+    cout << "Subï¿½ï¿½ï¿½ìº¯ï¿½ï¿½!" << endl;
   }
   ~Sub()
   {
-    cout << "SubÎö¹¹º¯Êı!" << endl;
+    cout << "Subï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½!" << endl;
   }
   int a;
 };
@@ -36,7 +36,7 @@ public:
 void test01()
 {
   Sub sub = Sub();
-  cout << "BaseÏÂµÄa: " << sub.Base::a << endl;
+  cout << "Baseï¿½Âµï¿½46_å¤šæ€åº”ç”¨_åˆ¶ä½œé¥®å“: " << sub.Base::a << endl;
 }
 
 int main(int argc, char const *argv[])
