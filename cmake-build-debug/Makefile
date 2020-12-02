@@ -38,19 +38,19 @@ cmake_force:
 SHELL = cmd.exe
 
 # The CMake executable.
-CMAKE_COMMAND = "C:\Program Files\JetBrains\CLion 2020.1.1\bin\cmake\win\bin\cmake.exe"
+CMAKE_COMMAND = "D:\Program Files\JetBrains\CLion 2020.1.1\bin\cmake\win\bin\cmake.exe"
 
 # The command to remove a file.
-RM = "C:\Program Files\JetBrains\CLion 2020.1.1\bin\cmake\win\bin\cmake.exe" -E remove -f
+RM = "D:\Program Files\JetBrains\CLion 2020.1.1\bin\cmake\win\bin\cmake.exe" -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\29024\Desktop\cpp_learn
+CMAKE_SOURCE_DIR = C:\Users\Administrator\Desktop\cpp_learn
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\29024\Desktop\cpp_learn\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\Administrator\Desktop\cpp_learn\cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -58,7 +58,7 @@ CMAKE_BINARY_DIR = C:\Users\29024\Desktop\cpp_learn\cmake-build-debug
 # Special rule for the target edit_cache
 edit_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
-	"C:\Program Files\JetBrains\CLion 2020.1.1\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available."
+	"D:\Program Files\JetBrains\CLion 2020.1.1\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available."
 .PHONY : edit_cache
 
 # Special rule for the target edit_cache
@@ -69,7 +69,7 @@ edit_cache/fast: edit_cache
 # Special rule for the target rebuild_cache
 rebuild_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
-	"C:\Program Files\JetBrains\CLion 2020.1.1\bin\cmake\win\bin\cmake.exe" -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
+	"D:\Program Files\JetBrains\CLion 2020.1.1\bin\cmake\win\bin\cmake.exe" -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
 .PHONY : rebuild_cache
 
 # Special rule for the target rebuild_cache
@@ -79,9 +79,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\29024\Desktop\cpp_learn\cmake-build-debug\CMakeFiles C:\Users\29024\Desktop\cpp_learn\cmake-build-debug\CMakeFiles\progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Administrator\Desktop\cpp_learn\cmake-build-debug\CMakeFiles C:\Users\Administrator\Desktop\cpp_learn\cmake-build-debug\CMakeFiles\progress.marks
 	$(MAKE) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\29024\Desktop\cpp_learn\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Administrator\Desktop\cpp_learn\cmake-build-debug\CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -311,6 +311,141 @@ cpp_learn/fast:
 	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/52_二进制读文件/52_二进制读文件.cpp.s
 .PHONY : 52_二进制读文件/52_二进制读文件.cpp.s
 
+53_函数模板/53_函数模板.obj: 53_函数模板/53_函数模板.cpp.obj
+
+.PHONY : 53_函数模板/53_函数模板.obj
+
+# target to build an object file
+53_函数模板/53_函数模板.cpp.obj:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/53_函数模板/53_函数模板.cpp.obj
+.PHONY : 53_函数模板/53_函数模板.cpp.obj
+
+53_函数模板/53_函数模板.i: 53_函数模板/53_函数模板.cpp.i
+
+.PHONY : 53_函数模板/53_函数模板.i
+
+# target to preprocess a source file
+53_函数模板/53_函数模板.cpp.i:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/53_函数模板/53_函数模板.cpp.i
+.PHONY : 53_函数模板/53_函数模板.cpp.i
+
+53_函数模板/53_函数模板.s: 53_函数模板/53_函数模板.cpp.s
+
+.PHONY : 53_函数模板/53_函数模板.s
+
+# target to generate assembly for a file
+53_函数模板/53_函数模板.cpp.s:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/53_函数模板/53_函数模板.cpp.s
+.PHONY : 53_函数模板/53_函数模板.cpp.s
+
+54_函数模板案例_数组排序/54_函数模板案例_数组排序.obj: 54_函数模板案例_数组排序/54_函数模板案例_数组排序.cpp.obj
+
+.PHONY : 54_函数模板案例_数组排序/54_函数模板案例_数组排序.obj
+
+# target to build an object file
+54_函数模板案例_数组排序/54_函数模板案例_数组排序.cpp.obj:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/54_函数模板案例_数组排序/54_函数模板案例_数组排序.cpp.obj
+.PHONY : 54_函数模板案例_数组排序/54_函数模板案例_数组排序.cpp.obj
+
+54_函数模板案例_数组排序/54_函数模板案例_数组排序.i: 54_函数模板案例_数组排序/54_函数模板案例_数组排序.cpp.i
+
+.PHONY : 54_函数模板案例_数组排序/54_函数模板案例_数组排序.i
+
+# target to preprocess a source file
+54_函数模板案例_数组排序/54_函数模板案例_数组排序.cpp.i:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/54_函数模板案例_数组排序/54_函数模板案例_数组排序.cpp.i
+.PHONY : 54_函数模板案例_数组排序/54_函数模板案例_数组排序.cpp.i
+
+54_函数模板案例_数组排序/54_函数模板案例_数组排序.s: 54_函数模板案例_数组排序/54_函数模板案例_数组排序.cpp.s
+
+.PHONY : 54_函数模板案例_数组排序/54_函数模板案例_数组排序.s
+
+# target to generate assembly for a file
+54_函数模板案例_数组排序/54_函数模板案例_数组排序.cpp.s:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/54_函数模板案例_数组排序/54_函数模板案例_数组排序.cpp.s
+.PHONY : 54_函数模板案例_数组排序/54_函数模板案例_数组排序.cpp.s
+
+55_普通函数和函数模板/55_普通函数和函数模板.obj: 55_普通函数和函数模板/55_普通函数和函数模板.cpp.obj
+
+.PHONY : 55_普通函数和函数模板/55_普通函数和函数模板.obj
+
+# target to build an object file
+55_普通函数和函数模板/55_普通函数和函数模板.cpp.obj:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/55_普通函数和函数模板/55_普通函数和函数模板.cpp.obj
+.PHONY : 55_普通函数和函数模板/55_普通函数和函数模板.cpp.obj
+
+55_普通函数和函数模板/55_普通函数和函数模板.i: 55_普通函数和函数模板/55_普通函数和函数模板.cpp.i
+
+.PHONY : 55_普通函数和函数模板/55_普通函数和函数模板.i
+
+# target to preprocess a source file
+55_普通函数和函数模板/55_普通函数和函数模板.cpp.i:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/55_普通函数和函数模板/55_普通函数和函数模板.cpp.i
+.PHONY : 55_普通函数和函数模板/55_普通函数和函数模板.cpp.i
+
+55_普通函数和函数模板/55_普通函数和函数模板.s: 55_普通函数和函数模板/55_普通函数和函数模板.cpp.s
+
+.PHONY : 55_普通函数和函数模板/55_普通函数和函数模板.s
+
+# target to generate assembly for a file
+55_普通函数和函数模板/55_普通函数和函数模板.cpp.s:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/55_普通函数和函数模板/55_普通函数和函数模板.cpp.s
+.PHONY : 55_普通函数和函数模板/55_普通函数和函数模板.cpp.s
+
+56_模板的局限性/56_模板的局限性.obj: 56_模板的局限性/56_模板的局限性.cpp.obj
+
+.PHONY : 56_模板的局限性/56_模板的局限性.obj
+
+# target to build an object file
+56_模板的局限性/56_模板的局限性.cpp.obj:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/56_模板的局限性/56_模板的局限性.cpp.obj
+.PHONY : 56_模板的局限性/56_模板的局限性.cpp.obj
+
+56_模板的局限性/56_模板的局限性.i: 56_模板的局限性/56_模板的局限性.cpp.i
+
+.PHONY : 56_模板的局限性/56_模板的局限性.i
+
+# target to preprocess a source file
+56_模板的局限性/56_模板的局限性.cpp.i:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/56_模板的局限性/56_模板的局限性.cpp.i
+.PHONY : 56_模板的局限性/56_模板的局限性.cpp.i
+
+56_模板的局限性/56_模板的局限性.s: 56_模板的局限性/56_模板的局限性.cpp.s
+
+.PHONY : 56_模板的局限性/56_模板的局限性.s
+
+# target to generate assembly for a file
+56_模板的局限性/56_模板的局限性.cpp.s:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/56_模板的局限性/56_模板的局限性.cpp.s
+.PHONY : 56_模板的局限性/56_模板的局限性.cpp.s
+
+57_类模板对象作函数参数/57_类模板对象作函数参数.obj: 57_类模板对象作函数参数/57_类模板对象作函数参数.cpp.obj
+
+.PHONY : 57_类模板对象作函数参数/57_类模板对象作函数参数.obj
+
+# target to build an object file
+57_类模板对象作函数参数/57_类模板对象作函数参数.cpp.obj:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/57_类模板对象作函数参数/57_类模板对象作函数参数.cpp.obj
+.PHONY : 57_类模板对象作函数参数/57_类模板对象作函数参数.cpp.obj
+
+57_类模板对象作函数参数/57_类模板对象作函数参数.i: 57_类模板对象作函数参数/57_类模板对象作函数参数.cpp.i
+
+.PHONY : 57_类模板对象作函数参数/57_类模板对象作函数参数.i
+
+# target to preprocess a source file
+57_类模板对象作函数参数/57_类模板对象作函数参数.cpp.i:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/57_类模板对象作函数参数/57_类模板对象作函数参数.cpp.i
+.PHONY : 57_类模板对象作函数参数/57_类模板对象作函数参数.cpp.i
+
+57_类模板对象作函数参数/57_类模板对象作函数参数.s: 57_类模板对象作函数参数/57_类模板对象作函数参数.cpp.s
+
+.PHONY : 57_类模板对象作函数参数/57_类模板对象作函数参数.s
+
+# target to generate assembly for a file
+57_类模板对象作函数参数/57_类模板对象作函数参数.cpp.s:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/57_类模板对象作函数参数/57_类模板对象作函数参数.cpp.s
+.PHONY : 57_类模板对象作函数参数/57_类模板对象作函数参数.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -341,6 +476,21 @@ help:
 	@echo ... 52_二进制读文件/52_二进制读文件.obj
 	@echo ... 52_二进制读文件/52_二进制读文件.i
 	@echo ... 52_二进制读文件/52_二进制读文件.s
+	@echo ... 53_函数模板/53_函数模板.obj
+	@echo ... 53_函数模板/53_函数模板.i
+	@echo ... 53_函数模板/53_函数模板.s
+	@echo ... 54_函数模板案例_数组排序/54_函数模板案例_数组排序.obj
+	@echo ... 54_函数模板案例_数组排序/54_函数模板案例_数组排序.i
+	@echo ... 54_函数模板案例_数组排序/54_函数模板案例_数组排序.s
+	@echo ... 55_普通函数和函数模板/55_普通函数和函数模板.obj
+	@echo ... 55_普通函数和函数模板/55_普通函数和函数模板.i
+	@echo ... 55_普通函数和函数模板/55_普通函数和函数模板.s
+	@echo ... 56_模板的局限性/56_模板的局限性.obj
+	@echo ... 56_模板的局限性/56_模板的局限性.i
+	@echo ... 56_模板的局限性/56_模板的局限性.s
+	@echo ... 57_类模板对象作函数参数/57_类模板对象作函数参数.obj
+	@echo ... 57_类模板对象作函数参数/57_类模板对象作函数参数.i
+	@echo ... 57_类模板对象作函数参数/57_类模板对象作函数参数.s
 .PHONY : help
 
 
