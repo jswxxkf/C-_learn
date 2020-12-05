@@ -134,10 +134,43 @@
 		<Unit filename="C:/Users/29024/Desktop/cpp_learn/61_类模板和友元/61_类模板和友元.cpp">
 			<Option target="cpp_learn"/>
 		</Unit>
-		<Unit filename="C:/Users/29024/Desktop/cpp_learn/62_自己通用的数组类/61_自己通用的数组类.cpp">
+		<Unit filename="C:/Users/29024/Desktop/cpp_learn/62_自己通用的数组类/62_自己通用的数组类.cpp">
 			<Option target="cpp_learn"/>
 		</Unit>
 		<Unit filename="C:/Users/29024/Desktop/cpp_learn/62_自己通用的数组类/myArray.hpp">
+			<Option target="cpp_learn"/>
+		</Unit>
+		<Unit filename="C:/Users/29024/Desktop/cpp_learn/63_邂逅标准模板库STL/63_邂逅标准模板库STL.cpp">
+			<Option target="cpp_learn"/>
+		</Unit>
+		<Unit filename="C:/Users/29024/Desktop/cpp_learn/64_vector存放自定义数据类型/64_vector存放自定义数据类型.cpp">
+			<Option target="cpp_learn"/>
+		</Unit>
+		<Unit filename="C:/Users/29024/Desktop/cpp_learn/65_vector嵌套vector/65_vector嵌套vector.cpp">
+			<Option target="cpp_learn"/>
+		</Unit>
+		<Unit filename="C:/Users/29024/Desktop/cpp_learn/66_string容器初识/66_string容器初识.cpp">
+			<Option target="cpp_learn"/>
+		</Unit>
+		<Unit filename="C:/Users/29024/Desktop/cpp_learn/67_string赋值操作/67_string赋值操作.cpp">
+			<Option target="cpp_learn"/>
+		</Unit>
+		<Unit filename="C:/Users/29024/Desktop/cpp_learn/68_string查找替换和比较/68_string查找替换和比较.cpp">
+			<Option target="cpp_learn"/>
+		</Unit>
+		<Unit filename="C:/Users/29024/Desktop/cpp_learn/69_string字符存取插入和删除/69_string字符存取插入和删除.cpp">
+			<Option target="cpp_learn"/>
+		</Unit>
+		<Unit filename="C:/Users/29024/Desktop/cpp_learn/70_vector容器构造和赋值/70_vector容器构造和赋值.cpp">
+			<Option target="cpp_learn"/>
+		</Unit>
+		<Unit filename="C:/Users/29024/Desktop/cpp_learn/71_vector容量大小插入删除和访问/71_vector容量大小插入删除和访问.cpp">
+			<Option target="cpp_learn"/>
+		</Unit>
+		<Unit filename="C:/Users/29024/Desktop/cpp_learn/72_vector容器互换/72_vector容器互换.cpp">
+			<Option target="cpp_learn"/>
+		</Unit>
+		<Unit filename="C:/Users/29024/Desktop/cpp_learn/73_vector预留空间/73_vector预留空间.cpp">
 			<Option target="cpp_learn"/>
 		</Unit>
 		<Unit filename="C:/Users/29024/Desktop/cpp_learn/CMakeLists.txt">

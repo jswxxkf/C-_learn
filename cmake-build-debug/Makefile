@@ -581,32 +581,329 @@ cpp_learn/fast:
 	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/61_类模板和友元/61_类模板和友元.cpp.s
 .PHONY : 61_类模板和友元/61_类模板和友元.cpp.s
 
-62_自己通用的数组类/61_自己通用的数组类.obj: 62_自己通用的数组类/61_自己通用的数组类.cpp.obj
+62_自己通用的数组类/62_自己通用的数组类.obj: 62_自己通用的数组类/62_自己通用的数组类.cpp.obj
 
-.PHONY : 62_自己通用的数组类/61_自己通用的数组类.obj
+.PHONY : 62_自己通用的数组类/62_自己通用的数组类.obj
 
 # target to build an object file
-62_自己通用的数组类/61_自己通用的数组类.cpp.obj:
-	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/62_自己通用的数组类/61_自己通用的数组类.cpp.obj
-.PHONY : 62_自己通用的数组类/61_自己通用的数组类.cpp.obj
+62_自己通用的数组类/62_自己通用的数组类.cpp.obj:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/62_自己通用的数组类/62_自己通用的数组类.cpp.obj
+.PHONY : 62_自己通用的数组类/62_自己通用的数组类.cpp.obj
 
-62_自己通用的数组类/61_自己通用的数组类.i: 62_自己通用的数组类/61_自己通用的数组类.cpp.i
+62_自己通用的数组类/62_自己通用的数组类.i: 62_自己通用的数组类/62_自己通用的数组类.cpp.i
 
-.PHONY : 62_自己通用的数组类/61_自己通用的数组类.i
+.PHONY : 62_自己通用的数组类/62_自己通用的数组类.i
 
 # target to preprocess a source file
-62_自己通用的数组类/61_自己通用的数组类.cpp.i:
-	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/62_自己通用的数组类/61_自己通用的数组类.cpp.i
-.PHONY : 62_自己通用的数组类/61_自己通用的数组类.cpp.i
+62_自己通用的数组类/62_自己通用的数组类.cpp.i:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/62_自己通用的数组类/62_自己通用的数组类.cpp.i
+.PHONY : 62_自己通用的数组类/62_自己通用的数组类.cpp.i
 
-62_自己通用的数组类/61_自己通用的数组类.s: 62_自己通用的数组类/61_自己通用的数组类.cpp.s
+62_自己通用的数组类/62_自己通用的数组类.s: 62_自己通用的数组类/62_自己通用的数组类.cpp.s
 
-.PHONY : 62_自己通用的数组类/61_自己通用的数组类.s
+.PHONY : 62_自己通用的数组类/62_自己通用的数组类.s
 
 # target to generate assembly for a file
-62_自己通用的数组类/61_自己通用的数组类.cpp.s:
-	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/62_自己通用的数组类/61_自己通用的数组类.cpp.s
-.PHONY : 62_自己通用的数组类/61_自己通用的数组类.cpp.s
+62_自己通用的数组类/62_自己通用的数组类.cpp.s:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/62_自己通用的数组类/62_自己通用的数组类.cpp.s
+.PHONY : 62_自己通用的数组类/62_自己通用的数组类.cpp.s
+
+63_邂逅标准模板库STL/63_邂逅标准模板库STL.obj: 63_邂逅标准模板库STL/63_邂逅标准模板库STL.cpp.obj
+
+.PHONY : 63_邂逅标准模板库STL/63_邂逅标准模板库STL.obj
+
+# target to build an object file
+63_邂逅标准模板库STL/63_邂逅标准模板库STL.cpp.obj:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/63_邂逅标准模板库STL/63_邂逅标准模板库STL.cpp.obj
+.PHONY : 63_邂逅标准模板库STL/63_邂逅标准模板库STL.cpp.obj
+
+63_邂逅标准模板库STL/63_邂逅标准模板库STL.i: 63_邂逅标准模板库STL/63_邂逅标准模板库STL.cpp.i
+
+.PHONY : 63_邂逅标准模板库STL/63_邂逅标准模板库STL.i
+
+# target to preprocess a source file
+63_邂逅标准模板库STL/63_邂逅标准模板库STL.cpp.i:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/63_邂逅标准模板库STL/63_邂逅标准模板库STL.cpp.i
+.PHONY : 63_邂逅标准模板库STL/63_邂逅标准模板库STL.cpp.i
+
+63_邂逅标准模板库STL/63_邂逅标准模板库STL.s: 63_邂逅标准模板库STL/63_邂逅标准模板库STL.cpp.s
+
+.PHONY : 63_邂逅标准模板库STL/63_邂逅标准模板库STL.s
+
+# target to generate assembly for a file
+63_邂逅标准模板库STL/63_邂逅标准模板库STL.cpp.s:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/63_邂逅标准模板库STL/63_邂逅标准模板库STL.cpp.s
+.PHONY : 63_邂逅标准模板库STL/63_邂逅标准模板库STL.cpp.s
+
+64_vector存放自定义数据类型/64_vector存放自定义数据类型.obj: 64_vector存放自定义数据类型/64_vector存放自定义数据类型.cpp.obj
+
+.PHONY : 64_vector存放自定义数据类型/64_vector存放自定义数据类型.obj
+
+# target to build an object file
+64_vector存放自定义数据类型/64_vector存放自定义数据类型.cpp.obj:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/64_vector存放自定义数据类型/64_vector存放自定义数据类型.cpp.obj
+.PHONY : 64_vector存放自定义数据类型/64_vector存放自定义数据类型.cpp.obj
+
+64_vector存放自定义数据类型/64_vector存放自定义数据类型.i: 64_vector存放自定义数据类型/64_vector存放自定义数据类型.cpp.i
+
+.PHONY : 64_vector存放自定义数据类型/64_vector存放自定义数据类型.i
+
+# target to preprocess a source file
+64_vector存放自定义数据类型/64_vector存放自定义数据类型.cpp.i:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/64_vector存放自定义数据类型/64_vector存放自定义数据类型.cpp.i
+.PHONY : 64_vector存放自定义数据类型/64_vector存放自定义数据类型.cpp.i
+
+64_vector存放自定义数据类型/64_vector存放自定义数据类型.s: 64_vector存放自定义数据类型/64_vector存放自定义数据类型.cpp.s
+
+.PHONY : 64_vector存放自定义数据类型/64_vector存放自定义数据类型.s
+
+# target to generate assembly for a file
+64_vector存放自定义数据类型/64_vector存放自定义数据类型.cpp.s:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/64_vector存放自定义数据类型/64_vector存放自定义数据类型.cpp.s
+.PHONY : 64_vector存放自定义数据类型/64_vector存放自定义数据类型.cpp.s
+
+65_vector嵌套vector/65_vector嵌套vector.obj: 65_vector嵌套vector/65_vector嵌套vector.cpp.obj
+
+.PHONY : 65_vector嵌套vector/65_vector嵌套vector.obj
+
+# target to build an object file
+65_vector嵌套vector/65_vector嵌套vector.cpp.obj:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/65_vector嵌套vector/65_vector嵌套vector.cpp.obj
+.PHONY : 65_vector嵌套vector/65_vector嵌套vector.cpp.obj
+
+65_vector嵌套vector/65_vector嵌套vector.i: 65_vector嵌套vector/65_vector嵌套vector.cpp.i
+
+.PHONY : 65_vector嵌套vector/65_vector嵌套vector.i
+
+# target to preprocess a source file
+65_vector嵌套vector/65_vector嵌套vector.cpp.i:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/65_vector嵌套vector/65_vector嵌套vector.cpp.i
+.PHONY : 65_vector嵌套vector/65_vector嵌套vector.cpp.i
+
+65_vector嵌套vector/65_vector嵌套vector.s: 65_vector嵌套vector/65_vector嵌套vector.cpp.s
+
+.PHONY : 65_vector嵌套vector/65_vector嵌套vector.s
+
+# target to generate assembly for a file
+65_vector嵌套vector/65_vector嵌套vector.cpp.s:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/65_vector嵌套vector/65_vector嵌套vector.cpp.s
+.PHONY : 65_vector嵌套vector/65_vector嵌套vector.cpp.s
+
+66_string容器初识/66_string容器初识.obj: 66_string容器初识/66_string容器初识.cpp.obj
+
+.PHONY : 66_string容器初识/66_string容器初识.obj
+
+# target to build an object file
+66_string容器初识/66_string容器初识.cpp.obj:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/66_string容器初识/66_string容器初识.cpp.obj
+.PHONY : 66_string容器初识/66_string容器初识.cpp.obj
+
+66_string容器初识/66_string容器初识.i: 66_string容器初识/66_string容器初识.cpp.i
+
+.PHONY : 66_string容器初识/66_string容器初识.i
+
+# target to preprocess a source file
+66_string容器初识/66_string容器初识.cpp.i:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/66_string容器初识/66_string容器初识.cpp.i
+.PHONY : 66_string容器初识/66_string容器初识.cpp.i
+
+66_string容器初识/66_string容器初识.s: 66_string容器初识/66_string容器初识.cpp.s
+
+.PHONY : 66_string容器初识/66_string容器初识.s
+
+# target to generate assembly for a file
+66_string容器初识/66_string容器初识.cpp.s:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/66_string容器初识/66_string容器初识.cpp.s
+.PHONY : 66_string容器初识/66_string容器初识.cpp.s
+
+67_string赋值操作/67_string赋值操作.obj: 67_string赋值操作/67_string赋值操作.cpp.obj
+
+.PHONY : 67_string赋值操作/67_string赋值操作.obj
+
+# target to build an object file
+67_string赋值操作/67_string赋值操作.cpp.obj:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/67_string赋值操作/67_string赋值操作.cpp.obj
+.PHONY : 67_string赋值操作/67_string赋值操作.cpp.obj
+
+67_string赋值操作/67_string赋值操作.i: 67_string赋值操作/67_string赋值操作.cpp.i
+
+.PHONY : 67_string赋值操作/67_string赋值操作.i
+
+# target to preprocess a source file
+67_string赋值操作/67_string赋值操作.cpp.i:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/67_string赋值操作/67_string赋值操作.cpp.i
+.PHONY : 67_string赋值操作/67_string赋值操作.cpp.i
+
+67_string赋值操作/67_string赋值操作.s: 67_string赋值操作/67_string赋值操作.cpp.s
+
+.PHONY : 67_string赋值操作/67_string赋值操作.s
+
+# target to generate assembly for a file
+67_string赋值操作/67_string赋值操作.cpp.s:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/67_string赋值操作/67_string赋值操作.cpp.s
+.PHONY : 67_string赋值操作/67_string赋值操作.cpp.s
+
+68_string查找替换和比较/68_string查找替换和比较.obj: 68_string查找替换和比较/68_string查找替换和比较.cpp.obj
+
+.PHONY : 68_string查找替换和比较/68_string查找替换和比较.obj
+
+# target to build an object file
+68_string查找替换和比较/68_string查找替换和比较.cpp.obj:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/68_string查找替换和比较/68_string查找替换和比较.cpp.obj
+.PHONY : 68_string查找替换和比较/68_string查找替换和比较.cpp.obj
+
+68_string查找替换和比较/68_string查找替换和比较.i: 68_string查找替换和比较/68_string查找替换和比较.cpp.i
+
+.PHONY : 68_string查找替换和比较/68_string查找替换和比较.i
+
+# target to preprocess a source file
+68_string查找替换和比较/68_string查找替换和比较.cpp.i:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/68_string查找替换和比较/68_string查找替换和比较.cpp.i
+.PHONY : 68_string查找替换和比较/68_string查找替换和比较.cpp.i
+
+68_string查找替换和比较/68_string查找替换和比较.s: 68_string查找替换和比较/68_string查找替换和比较.cpp.s
+
+.PHONY : 68_string查找替换和比较/68_string查找替换和比较.s
+
+# target to generate assembly for a file
+68_string查找替换和比较/68_string查找替换和比较.cpp.s:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/68_string查找替换和比较/68_string查找替换和比较.cpp.s
+.PHONY : 68_string查找替换和比较/68_string查找替换和比较.cpp.s
+
+69_string字符存取插入和删除/69_string字符存取插入和删除.obj: 69_string字符存取插入和删除/69_string字符存取插入和删除.cpp.obj
+
+.PHONY : 69_string字符存取插入和删除/69_string字符存取插入和删除.obj
+
+# target to build an object file
+69_string字符存取插入和删除/69_string字符存取插入和删除.cpp.obj:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/69_string字符存取插入和删除/69_string字符存取插入和删除.cpp.obj
+.PHONY : 69_string字符存取插入和删除/69_string字符存取插入和删除.cpp.obj
+
+69_string字符存取插入和删除/69_string字符存取插入和删除.i: 69_string字符存取插入和删除/69_string字符存取插入和删除.cpp.i
+
+.PHONY : 69_string字符存取插入和删除/69_string字符存取插入和删除.i
+
+# target to preprocess a source file
+69_string字符存取插入和删除/69_string字符存取插入和删除.cpp.i:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/69_string字符存取插入和删除/69_string字符存取插入和删除.cpp.i
+.PHONY : 69_string字符存取插入和删除/69_string字符存取插入和删除.cpp.i
+
+69_string字符存取插入和删除/69_string字符存取插入和删除.s: 69_string字符存取插入和删除/69_string字符存取插入和删除.cpp.s
+
+.PHONY : 69_string字符存取插入和删除/69_string字符存取插入和删除.s
+
+# target to generate assembly for a file
+69_string字符存取插入和删除/69_string字符存取插入和删除.cpp.s:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/69_string字符存取插入和删除/69_string字符存取插入和删除.cpp.s
+.PHONY : 69_string字符存取插入和删除/69_string字符存取插入和删除.cpp.s
+
+70_vector容器构造和赋值/70_vector容器构造和赋值.obj: 70_vector容器构造和赋值/70_vector容器构造和赋值.cpp.obj
+
+.PHONY : 70_vector容器构造和赋值/70_vector容器构造和赋值.obj
+
+# target to build an object file
+70_vector容器构造和赋值/70_vector容器构造和赋值.cpp.obj:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/70_vector容器构造和赋值/70_vector容器构造和赋值.cpp.obj
+.PHONY : 70_vector容器构造和赋值/70_vector容器构造和赋值.cpp.obj
+
+70_vector容器构造和赋值/70_vector容器构造和赋值.i: 70_vector容器构造和赋值/70_vector容器构造和赋值.cpp.i
+
+.PHONY : 70_vector容器构造和赋值/70_vector容器构造和赋值.i
+
+# target to preprocess a source file
+70_vector容器构造和赋值/70_vector容器构造和赋值.cpp.i:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/70_vector容器构造和赋值/70_vector容器构造和赋值.cpp.i
+.PHONY : 70_vector容器构造和赋值/70_vector容器构造和赋值.cpp.i
+
+70_vector容器构造和赋值/70_vector容器构造和赋值.s: 70_vector容器构造和赋值/70_vector容器构造和赋值.cpp.s
+
+.PHONY : 70_vector容器构造和赋值/70_vector容器构造和赋值.s
+
+# target to generate assembly for a file
+70_vector容器构造和赋值/70_vector容器构造和赋值.cpp.s:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/70_vector容器构造和赋值/70_vector容器构造和赋值.cpp.s
+.PHONY : 70_vector容器构造和赋值/70_vector容器构造和赋值.cpp.s
+
+71_vector容量大小插入删除和访问/71_vector容量大小插入删除和访问.obj: 71_vector容量大小插入删除和访问/71_vector容量大小插入删除和访问.cpp.obj
+
+.PHONY : 71_vector容量大小插入删除和访问/71_vector容量大小插入删除和访问.obj
+
+# target to build an object file
+71_vector容量大小插入删除和访问/71_vector容量大小插入删除和访问.cpp.obj:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/71_vector容量大小插入删除和访问/71_vector容量大小插入删除和访问.cpp.obj
+.PHONY : 71_vector容量大小插入删除和访问/71_vector容量大小插入删除和访问.cpp.obj
+
+71_vector容量大小插入删除和访问/71_vector容量大小插入删除和访问.i: 71_vector容量大小插入删除和访问/71_vector容量大小插入删除和访问.cpp.i
+
+.PHONY : 71_vector容量大小插入删除和访问/71_vector容量大小插入删除和访问.i
+
+# target to preprocess a source file
+71_vector容量大小插入删除和访问/71_vector容量大小插入删除和访问.cpp.i:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/71_vector容量大小插入删除和访问/71_vector容量大小插入删除和访问.cpp.i
+.PHONY : 71_vector容量大小插入删除和访问/71_vector容量大小插入删除和访问.cpp.i
+
+71_vector容量大小插入删除和访问/71_vector容量大小插入删除和访问.s: 71_vector容量大小插入删除和访问/71_vector容量大小插入删除和访问.cpp.s
+
+.PHONY : 71_vector容量大小插入删除和访问/71_vector容量大小插入删除和访问.s
+
+# target to generate assembly for a file
+71_vector容量大小插入删除和访问/71_vector容量大小插入删除和访问.cpp.s:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/71_vector容量大小插入删除和访问/71_vector容量大小插入删除和访问.cpp.s
+.PHONY : 71_vector容量大小插入删除和访问/71_vector容量大小插入删除和访问.cpp.s
+
+72_vector容器互换/72_vector容器互换.obj: 72_vector容器互换/72_vector容器互换.cpp.obj
+
+.PHONY : 72_vector容器互换/72_vector容器互换.obj
+
+# target to build an object file
+72_vector容器互换/72_vector容器互换.cpp.obj:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/72_vector容器互换/72_vector容器互换.cpp.obj
+.PHONY : 72_vector容器互换/72_vector容器互换.cpp.obj
+
+72_vector容器互换/72_vector容器互换.i: 72_vector容器互换/72_vector容器互换.cpp.i
+
+.PHONY : 72_vector容器互换/72_vector容器互换.i
+
+# target to preprocess a source file
+72_vector容器互换/72_vector容器互换.cpp.i:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/72_vector容器互换/72_vector容器互换.cpp.i
+.PHONY : 72_vector容器互换/72_vector容器互换.cpp.i
+
+72_vector容器互换/72_vector容器互换.s: 72_vector容器互换/72_vector容器互换.cpp.s
+
+.PHONY : 72_vector容器互换/72_vector容器互换.s
+
+# target to generate assembly for a file
+72_vector容器互换/72_vector容器互换.cpp.s:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/72_vector容器互换/72_vector容器互换.cpp.s
+.PHONY : 72_vector容器互换/72_vector容器互换.cpp.s
+
+73_vector预留空间/73_vector预留空间.obj: 73_vector预留空间/73_vector预留空间.cpp.obj
+
+.PHONY : 73_vector预留空间/73_vector预留空间.obj
+
+# target to build an object file
+73_vector预留空间/73_vector预留空间.cpp.obj:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/73_vector预留空间/73_vector预留空间.cpp.obj
+.PHONY : 73_vector预留空间/73_vector预留空间.cpp.obj
+
+73_vector预留空间/73_vector预留空间.i: 73_vector预留空间/73_vector预留空间.cpp.i
+
+.PHONY : 73_vector预留空间/73_vector预留空间.i
+
+# target to preprocess a source file
+73_vector预留空间/73_vector预留空间.cpp.i:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/73_vector预留空间/73_vector预留空间.cpp.i
+.PHONY : 73_vector预留空间/73_vector预留空间.cpp.i
+
+73_vector预留空间/73_vector预留空间.s: 73_vector预留空间/73_vector预留空间.cpp.s
+
+.PHONY : 73_vector预留空间/73_vector预留空间.s
+
+# target to generate assembly for a file
+73_vector预留空间/73_vector预留空间.cpp.s:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/73_vector预留空间/73_vector预留空间.cpp.s
+.PHONY : 73_vector预留空间/73_vector预留空间.cpp.s
 
 # Help Target
 help:
@@ -668,9 +965,42 @@ help:
 	@echo ... 61_类模板和友元/61_类模板和友元.obj
 	@echo ... 61_类模板和友元/61_类模板和友元.i
 	@echo ... 61_类模板和友元/61_类模板和友元.s
-	@echo ... 62_自己通用的数组类/61_自己通用的数组类.obj
-	@echo ... 62_自己通用的数组类/61_自己通用的数组类.i
-	@echo ... 62_自己通用的数组类/61_自己通用的数组类.s
+	@echo ... 62_自己通用的数组类/62_自己通用的数组类.obj
+	@echo ... 62_自己通用的数组类/62_自己通用的数组类.i
+	@echo ... 62_自己通用的数组类/62_自己通用的数组类.s
+	@echo ... 63_邂逅标准模板库STL/63_邂逅标准模板库STL.obj
+	@echo ... 63_邂逅标准模板库STL/63_邂逅标准模板库STL.i
+	@echo ... 63_邂逅标准模板库STL/63_邂逅标准模板库STL.s
+	@echo ... 64_vector存放自定义数据类型/64_vector存放自定义数据类型.obj
+	@echo ... 64_vector存放自定义数据类型/64_vector存放自定义数据类型.i
+	@echo ... 64_vector存放自定义数据类型/64_vector存放自定义数据类型.s
+	@echo ... 65_vector嵌套vector/65_vector嵌套vector.obj
+	@echo ... 65_vector嵌套vector/65_vector嵌套vector.i
+	@echo ... 65_vector嵌套vector/65_vector嵌套vector.s
+	@echo ... 66_string容器初识/66_string容器初识.obj
+	@echo ... 66_string容器初识/66_string容器初识.i
+	@echo ... 66_string容器初识/66_string容器初识.s
+	@echo ... 67_string赋值操作/67_string赋值操作.obj
+	@echo ... 67_string赋值操作/67_string赋值操作.i
+	@echo ... 67_string赋值操作/67_string赋值操作.s
+	@echo ... 68_string查找替换和比较/68_string查找替换和比较.obj
+	@echo ... 68_string查找替换和比较/68_string查找替换和比较.i
+	@echo ... 68_string查找替换和比较/68_string查找替换和比较.s
+	@echo ... 69_string字符存取插入和删除/69_string字符存取插入和删除.obj
+	@echo ... 69_string字符存取插入和删除/69_string字符存取插入和删除.i
+	@echo ... 69_string字符存取插入和删除/69_string字符存取插入和删除.s
+	@echo ... 70_vector容器构造和赋值/70_vector容器构造和赋值.obj
+	@echo ... 70_vector容器构造和赋值/70_vector容器构造和赋值.i
+	@echo ... 70_vector容器构造和赋值/70_vector容器构造和赋值.s
+	@echo ... 71_vector容量大小插入删除和访问/71_vector容量大小插入删除和访问.obj
+	@echo ... 71_vector容量大小插入删除和访问/71_vector容量大小插入删除和访问.i
+	@echo ... 71_vector容量大小插入删除和访问/71_vector容量大小插入删除和访问.s
+	@echo ... 72_vector容器互换/72_vector容器互换.obj
+	@echo ... 72_vector容器互换/72_vector容器互换.i
+	@echo ... 72_vector容器互换/72_vector容器互换.s
+	@echo ... 73_vector预留空间/73_vector预留空间.obj
+	@echo ... 73_vector预留空间/73_vector预留空间.i
+	@echo ... 73_vector预留空间/73_vector预留空间.s
 .PHONY : help
 
 
