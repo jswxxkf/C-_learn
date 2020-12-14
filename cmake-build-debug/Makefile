@@ -905,6 +905,141 @@ cpp_learn/fast:
 	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/73_vector预留空间/73_vector预留空间.cpp.s
 .PHONY : 73_vector预留空间/73_vector预留空间.cpp.s
 
+74_deque容器相关/74_deque容器相关.obj: 74_deque容器相关/74_deque容器相关.cpp.obj
+
+.PHONY : 74_deque容器相关/74_deque容器相关.obj
+
+# target to build an object file
+74_deque容器相关/74_deque容器相关.cpp.obj:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/74_deque容器相关/74_deque容器相关.cpp.obj
+.PHONY : 74_deque容器相关/74_deque容器相关.cpp.obj
+
+74_deque容器相关/74_deque容器相关.i: 74_deque容器相关/74_deque容器相关.cpp.i
+
+.PHONY : 74_deque容器相关/74_deque容器相关.i
+
+# target to preprocess a source file
+74_deque容器相关/74_deque容器相关.cpp.i:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/74_deque容器相关/74_deque容器相关.cpp.i
+.PHONY : 74_deque容器相关/74_deque容器相关.cpp.i
+
+74_deque容器相关/74_deque容器相关.s: 74_deque容器相关/74_deque容器相关.cpp.s
+
+.PHONY : 74_deque容器相关/74_deque容器相关.s
+
+# target to generate assembly for a file
+74_deque容器相关/74_deque容器相关.cpp.s:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/74_deque容器相关/74_deque容器相关.cpp.s
+.PHONY : 74_deque容器相关/74_deque容器相关.cpp.s
+
+75_stack容器相关/75_stack容器相关.obj: 75_stack容器相关/75_stack容器相关.cpp.obj
+
+.PHONY : 75_stack容器相关/75_stack容器相关.obj
+
+# target to build an object file
+75_stack容器相关/75_stack容器相关.cpp.obj:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/75_stack容器相关/75_stack容器相关.cpp.obj
+.PHONY : 75_stack容器相关/75_stack容器相关.cpp.obj
+
+75_stack容器相关/75_stack容器相关.i: 75_stack容器相关/75_stack容器相关.cpp.i
+
+.PHONY : 75_stack容器相关/75_stack容器相关.i
+
+# target to preprocess a source file
+75_stack容器相关/75_stack容器相关.cpp.i:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/75_stack容器相关/75_stack容器相关.cpp.i
+.PHONY : 75_stack容器相关/75_stack容器相关.cpp.i
+
+75_stack容器相关/75_stack容器相关.s: 75_stack容器相关/75_stack容器相关.cpp.s
+
+.PHONY : 75_stack容器相关/75_stack容器相关.s
+
+# target to generate assembly for a file
+75_stack容器相关/75_stack容器相关.cpp.s:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/75_stack容器相关/75_stack容器相关.cpp.s
+.PHONY : 75_stack容器相关/75_stack容器相关.cpp.s
+
+76_queue容器相关/76_queue容器相关.obj: 76_queue容器相关/76_queue容器相关.cpp.obj
+
+.PHONY : 76_queue容器相关/76_queue容器相关.obj
+
+# target to build an object file
+76_queue容器相关/76_queue容器相关.cpp.obj:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/76_queue容器相关/76_queue容器相关.cpp.obj
+.PHONY : 76_queue容器相关/76_queue容器相关.cpp.obj
+
+76_queue容器相关/76_queue容器相关.i: 76_queue容器相关/76_queue容器相关.cpp.i
+
+.PHONY : 76_queue容器相关/76_queue容器相关.i
+
+# target to preprocess a source file
+76_queue容器相关/76_queue容器相关.cpp.i:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/76_queue容器相关/76_queue容器相关.cpp.i
+.PHONY : 76_queue容器相关/76_queue容器相关.cpp.i
+
+76_queue容器相关/76_queue容器相关.s: 76_queue容器相关/76_queue容器相关.cpp.s
+
+.PHONY : 76_queue容器相关/76_queue容器相关.s
+
+# target to generate assembly for a file
+76_queue容器相关/76_queue容器相关.cpp.s:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/76_queue容器相关/76_queue容器相关.cpp.s
+.PHONY : 76_queue容器相关/76_queue容器相关.cpp.s
+
+77_STL练习案例1/77_STL练习案例1.obj: 77_STL练习案例1/77_STL练习案例1.cpp.obj
+
+.PHONY : 77_STL练习案例1/77_STL练习案例1.obj
+
+# target to build an object file
+77_STL练习案例1/77_STL练习案例1.cpp.obj:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/77_STL练习案例1/77_STL练习案例1.cpp.obj
+.PHONY : 77_STL练习案例1/77_STL练习案例1.cpp.obj
+
+77_STL练习案例1/77_STL练习案例1.i: 77_STL练习案例1/77_STL练习案例1.cpp.i
+
+.PHONY : 77_STL练习案例1/77_STL练习案例1.i
+
+# target to preprocess a source file
+77_STL练习案例1/77_STL练习案例1.cpp.i:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/77_STL练习案例1/77_STL练习案例1.cpp.i
+.PHONY : 77_STL练习案例1/77_STL练习案例1.cpp.i
+
+77_STL练习案例1/77_STL练习案例1.s: 77_STL练习案例1/77_STL练习案例1.cpp.s
+
+.PHONY : 77_STL练习案例1/77_STL练习案例1.s
+
+# target to generate assembly for a file
+77_STL练习案例1/77_STL练习案例1.cpp.s:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/77_STL练习案例1/77_STL练习案例1.cpp.s
+.PHONY : 77_STL练习案例1/77_STL练习案例1.cpp.s
+
+78_list容器相关/78_list容器相关.obj: 78_list容器相关/78_list容器相关.cpp.obj
+
+.PHONY : 78_list容器相关/78_list容器相关.obj
+
+# target to build an object file
+78_list容器相关/78_list容器相关.cpp.obj:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/78_list容器相关/78_list容器相关.cpp.obj
+.PHONY : 78_list容器相关/78_list容器相关.cpp.obj
+
+78_list容器相关/78_list容器相关.i: 78_list容器相关/78_list容器相关.cpp.i
+
+.PHONY : 78_list容器相关/78_list容器相关.i
+
+# target to preprocess a source file
+78_list容器相关/78_list容器相关.cpp.i:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/78_list容器相关/78_list容器相关.cpp.i
+.PHONY : 78_list容器相关/78_list容器相关.cpp.i
+
+78_list容器相关/78_list容器相关.s: 78_list容器相关/78_list容器相关.cpp.s
+
+.PHONY : 78_list容器相关/78_list容器相关.s
+
+# target to generate assembly for a file
+78_list容器相关/78_list容器相关.cpp.s:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/78_list容器相关/78_list容器相关.cpp.s
+.PHONY : 78_list容器相关/78_list容器相关.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -1001,6 +1136,21 @@ help:
 	@echo ... 73_vector预留空间/73_vector预留空间.obj
 	@echo ... 73_vector预留空间/73_vector预留空间.i
 	@echo ... 73_vector预留空间/73_vector预留空间.s
+	@echo ... 74_deque容器相关/74_deque容器相关.obj
+	@echo ... 74_deque容器相关/74_deque容器相关.i
+	@echo ... 74_deque容器相关/74_deque容器相关.s
+	@echo ... 75_stack容器相关/75_stack容器相关.obj
+	@echo ... 75_stack容器相关/75_stack容器相关.i
+	@echo ... 75_stack容器相关/75_stack容器相关.s
+	@echo ... 76_queue容器相关/76_queue容器相关.obj
+	@echo ... 76_queue容器相关/76_queue容器相关.i
+	@echo ... 76_queue容器相关/76_queue容器相关.s
+	@echo ... 77_STL练习案例1/77_STL练习案例1.obj
+	@echo ... 77_STL练习案例1/77_STL练习案例1.i
+	@echo ... 77_STL练习案例1/77_STL练习案例1.s
+	@echo ... 78_list容器相关/78_list容器相关.obj
+	@echo ... 78_list容器相关/78_list容器相关.i
+	@echo ... 78_list容器相关/78_list容器相关.s
 .PHONY : help
 
 

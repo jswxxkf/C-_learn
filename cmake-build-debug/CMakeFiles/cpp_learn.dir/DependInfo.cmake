@@ -33,6 +33,11 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/29024/Desktop/cpp_learn/71_vector容量大小插入删除和访问/71_vector容量大小插入删除和访问.cpp" "C:/Users/29024/Desktop/cpp_learn/cmake-build-debug/CMakeFiles/cpp_learn.dir/71_vector容量大小插入删除和访问/71_vector容量大小插入删除和访问.cpp.obj"
   "C:/Users/29024/Desktop/cpp_learn/72_vector容器互换/72_vector容器互换.cpp" "C:/Users/29024/Desktop/cpp_learn/cmake-build-debug/CMakeFiles/cpp_learn.dir/72_vector容器互换/72_vector容器互换.cpp.obj"
   "C:/Users/29024/Desktop/cpp_learn/73_vector预留空间/73_vector预留空间.cpp" "C:/Users/29024/Desktop/cpp_learn/cmake-build-debug/CMakeFiles/cpp_learn.dir/73_vector预留空间/73_vector预留空间.cpp.obj"
+  "C:/Users/29024/Desktop/cpp_learn/74_deque容器相关/74_deque容器相关.cpp" "C:/Users/29024/Desktop/cpp_learn/cmake-build-debug/CMakeFiles/cpp_learn.dir/74_deque容器相关/74_deque容器相关.cpp.obj"
+  "C:/Users/29024/Desktop/cpp_learn/75_stack容器相关/75_stack容器相关.cpp" "C:/Users/29024/Desktop/cpp_learn/cmake-build-debug/CMakeFiles/cpp_learn.dir/75_stack容器相关/75_stack容器相关.cpp.obj"
+  "C:/Users/29024/Desktop/cpp_learn/76_queue容器相关/76_queue容器相关.cpp" "C:/Users/29024/Desktop/cpp_learn/cmake-build-debug/CMakeFiles/cpp_learn.dir/76_queue容器相关/76_queue容器相关.cpp.obj"
+  "C:/Users/29024/Desktop/cpp_learn/77_STL练习案例1/77_STL练习案例1.cpp" "C:/Users/29024/Desktop/cpp_learn/cmake-build-debug/CMakeFiles/cpp_learn.dir/77_STL练习案例1/77_STL练习案例1.cpp.obj"
+  "C:/Users/29024/Desktop/cpp_learn/78_list容器相关/78_list容器相关.cpp" "C:/Users/29024/Desktop/cpp_learn/cmake-build-debug/CMakeFiles/cpp_learn.dir/78_list容器相关/78_list容器相关.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
