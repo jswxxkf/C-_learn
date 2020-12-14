@@ -433,6 +433,71 @@ CMakeFiles/cpp_learn.dir/73_vector预留空间/73_vector预留空间.cpp.s: cmak
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_learn.dir/73_vector预留空间/73_vector预留空间.cpp.s"
 	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\29024\Desktop\cpp_learn\73_vector预留空间\73_vector预留空间.cpp -o CMakeFiles\cpp_learn.dir\73_vector预留空间\73_vector预留空间.cpp.s
 
+CMakeFiles/cpp_learn.dir/74_deque容器相关/74_deque容器相关.cpp.obj: CMakeFiles/cpp_learn.dir/flags.make
+CMakeFiles/cpp_learn.dir/74_deque容器相关/74_deque容器相关.cpp.obj: ../74_deque容器相关/74_deque容器相关.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\29024\Desktop\cpp_learn\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object CMakeFiles/cpp_learn.dir/74_deque容器相关/74_deque容器相关.cpp.obj"
+	D:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cpp_learn.dir\74_deque容器相关\74_deque容器相关.cpp.obj -c C:\Users\29024\Desktop\cpp_learn\74_deque容器相关\74_deque容器相关.cpp
+
+CMakeFiles/cpp_learn.dir/74_deque容器相关/74_deque容器相关.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_learn.dir/74_deque容器相关/74_deque容器相关.cpp.i"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\29024\Desktop\cpp_learn\74_deque容器相关\74_deque容器相关.cpp > CMakeFiles\cpp_learn.dir\74_deque容器相关\74_deque容器相关.cpp.i
+
+CMakeFiles/cpp_learn.dir/74_deque容器相关/74_deque容器相关.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_learn.dir/74_deque容器相关/74_deque容器相关.cpp.s"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\29024\Desktop\cpp_learn\74_deque容器相关\74_deque容器相关.cpp -o CMakeFiles\cpp_learn.dir\74_deque容器相关\74_deque容器相关.cpp.s
+
+CMakeFiles/cpp_learn.dir/75_stack容器相关/75_stack容器相关.cpp.obj: CMakeFiles/cpp_learn.dir/flags.make
+CMakeFiles/cpp_learn.dir/75_stack容器相关/75_stack容器相关.cpp.obj: ../75_stack容器相关/75_stack容器相关.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\29024\Desktop\cpp_learn\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building CXX object CMakeFiles/cpp_learn.dir/75_stack容器相关/75_stack容器相关.cpp.obj"
+	D:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cpp_learn.dir\75_stack容器相关\75_stack容器相关.cpp.obj -c C:\Users\29024\Desktop\cpp_learn\75_stack容器相关\75_stack容器相关.cpp
+
+CMakeFiles/cpp_learn.dir/75_stack容器相关/75_stack容器相关.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_learn.dir/75_stack容器相关/75_stack容器相关.cpp.i"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\29024\Desktop\cpp_learn\75_stack容器相关\75_stack容器相关.cpp > CMakeFiles\cpp_learn.dir\75_stack容器相关\75_stack容器相关.cpp.i
+
+CMakeFiles/cpp_learn.dir/75_stack容器相关/75_stack容器相关.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_learn.dir/75_stack容器相关/75_stack容器相关.cpp.s"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\29024\Desktop\cpp_learn\75_stack容器相关\75_stack容器相关.cpp -o CMakeFiles\cpp_learn.dir\75_stack容器相关\75_stack容器相关.cpp.s
+
+CMakeFiles/cpp_learn.dir/76_queue容器相关/76_queue容器相关.cpp.obj: CMakeFiles/cpp_learn.dir/flags.make
+CMakeFiles/cpp_learn.dir/76_queue容器相关/76_queue容器相关.cpp.obj: ../76_queue容器相关/76_queue容器相关.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\29024\Desktop\cpp_learn\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building CXX object CMakeFiles/cpp_learn.dir/76_queue容器相关/76_queue容器相关.cpp.obj"
+	D:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cpp_learn.dir\76_queue容器相关\76_queue容器相关.cpp.obj -c C:\Users\29024\Desktop\cpp_learn\76_queue容器相关\76_queue容器相关.cpp
+
+CMakeFiles/cpp_learn.dir/76_queue容器相关/76_queue容器相关.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_learn.dir/76_queue容器相关/76_queue容器相关.cpp.i"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\29024\Desktop\cpp_learn\76_queue容器相关\76_queue容器相关.cpp > CMakeFiles\cpp_learn.dir\76_queue容器相关\76_queue容器相关.cpp.i
+
+CMakeFiles/cpp_learn.dir/76_queue容器相关/76_queue容器相关.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_learn.dir/76_queue容器相关/76_queue容器相关.cpp.s"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\29024\Desktop\cpp_learn\76_queue容器相关\76_queue容器相关.cpp -o CMakeFiles\cpp_learn.dir\76_queue容器相关\76_queue容器相关.cpp.s
+
+CMakeFiles/cpp_learn.dir/77_STL练习案例1/77_STL练习案例1.cpp.obj: CMakeFiles/cpp_learn.dir/flags.make
+CMakeFiles/cpp_learn.dir/77_STL练习案例1/77_STL练习案例1.cpp.obj: ../77_STL练习案例1/77_STL练习案例1.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\29024\Desktop\cpp_learn\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building CXX object CMakeFiles/cpp_learn.dir/77_STL练习案例1/77_STL练习案例1.cpp.obj"
+	D:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cpp_learn.dir\77_STL练习案例1\77_STL练习案例1.cpp.obj -c C:\Users\29024\Desktop\cpp_learn\77_STL练习案例1\77_STL练习案例1.cpp
+
+CMakeFiles/cpp_learn.dir/77_STL练习案例1/77_STL练习案例1.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_learn.dir/77_STL练习案例1/77_STL练习案例1.cpp.i"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\29024\Desktop\cpp_learn\77_STL练习案例1\77_STL练习案例1.cpp > CMakeFiles\cpp_learn.dir\77_STL练习案例1\77_STL练习案例1.cpp.i
+
+CMakeFiles/cpp_learn.dir/77_STL练习案例1/77_STL练习案例1.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_learn.dir/77_STL练习案例1/77_STL练习案例1.cpp.s"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\29024\Desktop\cpp_learn\77_STL练习案例1\77_STL练习案例1.cpp -o CMakeFiles\cpp_learn.dir\77_STL练习案例1\77_STL练习案例1.cpp.s
+
+CMakeFiles/cpp_learn.dir/78_list容器相关/78_list容器相关.cpp.obj: CMakeFiles/cpp_learn.dir/flags.make
+CMakeFiles/cpp_learn.dir/78_list容器相关/78_list容器相关.cpp.obj: ../78_list容器相关/78_list容器相关.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\29024\Desktop\cpp_learn\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building CXX object CMakeFiles/cpp_learn.dir/78_list容器相关/78_list容器相关.cpp.obj"
+	D:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cpp_learn.dir\78_list容器相关\78_list容器相关.cpp.obj -c C:\Users\29024\Desktop\cpp_learn\78_list容器相关\78_list容器相关.cpp
+
+CMakeFiles/cpp_learn.dir/78_list容器相关/78_list容器相关.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_learn.dir/78_list容器相关/78_list容器相关.cpp.i"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\29024\Desktop\cpp_learn\78_list容器相关\78_list容器相关.cpp > CMakeFiles\cpp_learn.dir\78_list容器相关\78_list容器相关.cpp.i
+
+CMakeFiles/cpp_learn.dir/78_list容器相关/78_list容器相关.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_learn.dir/78_list容器相关/78_list容器相关.cpp.s"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\29024\Desktop\cpp_learn\78_list容器相关\78_list容器相关.cpp -o CMakeFiles\cpp_learn.dir\78_list容器相关\78_list容器相关.cpp.s
+
 # Object files for target cpp_learn
 cpp_learn_OBJECTS = \
 "CMakeFiles/cpp_learn.dir/46_多态应用_制作饮品/46_多态应用_制作饮品.cpp.obj" \
@@ -463,7 +528,12 @@ cpp_learn_OBJECTS = \
 "CMakeFiles/cpp_learn.dir/70_vector容器构造和赋值/70_vector容器构造和赋值.cpp.obj" \
 "CMakeFiles/cpp_learn.dir/71_vector容量大小插入删除和访问/71_vector容量大小插入删除和访问.cpp.obj" \
 "CMakeFiles/cpp_learn.dir/72_vector容器互换/72_vector容器互换.cpp.obj" \
-"CMakeFiles/cpp_learn.dir/73_vector预留空间/73_vector预留空间.cpp.obj"
+"CMakeFiles/cpp_learn.dir/73_vector预留空间/73_vector预留空间.cpp.obj" \
+"CMakeFiles/cpp_learn.dir/74_deque容器相关/74_deque容器相关.cpp.obj" \
+"CMakeFiles/cpp_learn.dir/75_stack容器相关/75_stack容器相关.cpp.obj" \
+"CMakeFiles/cpp_learn.dir/76_queue容器相关/76_queue容器相关.cpp.obj" \
+"CMakeFiles/cpp_learn.dir/77_STL练习案例1/77_STL练习案例1.cpp.obj" \
+"CMakeFiles/cpp_learn.dir/78_list容器相关/78_list容器相关.cpp.obj"
 
 # External object files for target cpp_learn
 cpp_learn_EXTERNAL_OBJECTS =
@@ -497,11 +567,16 @@ cpp_learn.exe: CMakeFiles/cpp_learn.dir/70_vector容器构造和赋值/70_vector
 cpp_learn.exe: CMakeFiles/cpp_learn.dir/71_vector容量大小插入删除和访问/71_vector容量大小插入删除和访问.cpp.obj
 cpp_learn.exe: CMakeFiles/cpp_learn.dir/72_vector容器互换/72_vector容器互换.cpp.obj
 cpp_learn.exe: CMakeFiles/cpp_learn.dir/73_vector预留空间/73_vector预留空间.cpp.obj
+cpp_learn.exe: CMakeFiles/cpp_learn.dir/74_deque容器相关/74_deque容器相关.cpp.obj
+cpp_learn.exe: CMakeFiles/cpp_learn.dir/75_stack容器相关/75_stack容器相关.cpp.obj
+cpp_learn.exe: CMakeFiles/cpp_learn.dir/76_queue容器相关/76_queue容器相关.cpp.obj
+cpp_learn.exe: CMakeFiles/cpp_learn.dir/77_STL练习案例1/77_STL练习案例1.cpp.obj
+cpp_learn.exe: CMakeFiles/cpp_learn.dir/78_list容器相关/78_list容器相关.cpp.obj
 cpp_learn.exe: CMakeFiles/cpp_learn.dir/build.make
 cpp_learn.exe: CMakeFiles/cpp_learn.dir/linklibs.rsp
 cpp_learn.exe: CMakeFiles/cpp_learn.dir/objects1.rsp
 cpp_learn.exe: CMakeFiles/cpp_learn.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\29024\Desktop\cpp_learn\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Linking CXX executable cpp_learn.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\29024\Desktop\cpp_learn\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Linking CXX executable cpp_learn.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\cpp_learn.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

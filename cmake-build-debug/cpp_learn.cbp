@@ -173,6 +173,21 @@
 		<Unit filename="C:/Users/29024/Desktop/cpp_learn/73_vector预留空间/73_vector预留空间.cpp">
 			<Option target="cpp_learn"/>
 		</Unit>
+		<Unit filename="C:/Users/29024/Desktop/cpp_learn/74_deque容器相关/74_deque容器相关.cpp">
+			<Option target="cpp_learn"/>
+		</Unit>
+		<Unit filename="C:/Users/29024/Desktop/cpp_learn/75_stack容器相关/75_stack容器相关.cpp">
+			<Option target="cpp_learn"/>
+		</Unit>
+		<Unit filename="C:/Users/29024/Desktop/cpp_learn/76_queue容器相关/76_queue容器相关.cpp">
+			<Option target="cpp_learn"/>
+		</Unit>
+		<Unit filename="C:/Users/29024/Desktop/cpp_learn/77_STL练习案例1/77_STL练习案例1.cpp">
+			<Option target="cpp_learn"/>
+		</Unit>
+		<Unit filename="C:/Users/29024/Desktop/cpp_learn/78_list容器相关/78_list容器相关.cpp">
+			<Option target="cpp_learn"/>
+		</Unit>
 		<Unit filename="C:/Users/29024/Desktop/cpp_learn/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
