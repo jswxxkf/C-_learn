@@ -38,7 +38,7 @@ void test01() {
   printList(L4);
 }
 
-void test02(){
+void test02() {
   // 赋值和交换
   list<int> L1;
   L1.push_back(10);
@@ -77,10 +77,88 @@ void test02(){
   cout << "L4的大小为：" << L4.size() << endl;
 }
 
+void test03() {
+  list<int> L;
+  // 尾插
+  L.push_back(10);
+  L.push_back(20);
+  L.push_back(30);
+  // 头插
+  L.push_front(100);
+  L.push_front(200);
+  L.push_front(300);
+  printList(L);
+  // 尾删
+  L.pop_back();
+  printList(L);
+  // 头删
+  L.pop_front();
+  printList(L);
+  // insert插入
+  // L.insert(L.begin(), 1000);
+  // printList(L);
+  list<int>::iterator iter = L.begin();
+  L.insert(++iter, 1000);
+  printList(L);
+  // 删除
+  iter = L.begin();
+  L.erase(iter);
+  printList(L);
+  // 移除
+  L.push_back(10000);
+  printList(L);
+  L.remove(10000);
+  printList(L);
+  // 清空
+  L.clear();
+  printList(L);
+}
+
+bool myCompare(int v1,int v2){
+  // 降序，就让第一个数 > 第二个数
+  return v1 > v2;
+}
+
+// 数据存取、反转和排序
+void test04() {
+  list<int> L;
+  L.push_back(10);
+  L.push_back(20);
+  L.push_back(30);
+  L.push_back(40);
+  L.push_front(100);
+  L.push_front(200);
+  L.push_front(300);
+  // list底层是链表，不是用连续线性空间存储数据，迭代器也是不支持随机访问的
+  // L[0] // 无法用[]访问list容器中的元素
+  // L.at(0) // 也无法用at(ind)
+  cout << "第一个元素为：" << L.front() << endl;
+  cout << "最后一个元素为：" << L.back() << endl;
+  // 迭代器是不支持随机访问的
+  list<int>::iterator iter = L.begin();
+  // iter = iter + 2 // 无法跳跃，只能双向的++ --
+  // 反转
+  cout << "反转前：" << endl;
+  printList(L);
+  L.reverse();
+  cout << "反转后：" << endl;
+  printList(L);
+  // 排序
+  // 注意：所有不支持随机访问迭代器的容器，不可用标准算法来包裹
+  // 但是，不支持随机访问迭代器容器的内部，会提供对应的一些算法
+  L.sort(); // 默认排序规则
+  cout << "升序排序后：" << endl;
+  printList(L);
+  cout << "降序排序后：" << endl;
+  L.sort(myCompare); // 自定义的降序排序
+  printList(L);
+}
+
 int main(int argc, const char *argv[]) {
 //  test01();
 //  test02();
 //  test03();
+  test04();
   system("pause");
   return 0;
 }

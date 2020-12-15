@@ -38,19 +38,19 @@ cmake_force:
 SHELL = cmd.exe
 
 # The CMake executable.
-CMAKE_COMMAND = "C:\Program Files\JetBrains\CLion 2020.1.1\bin\cmake\win\bin\cmake.exe"
+CMAKE_COMMAND = "D:\Program Files\JetBrains\CLion 2020.1.1\bin\cmake\win\bin\cmake.exe"
 
 # The command to remove a file.
-RM = "C:\Program Files\JetBrains\CLion 2020.1.1\bin\cmake\win\bin\cmake.exe" -E remove -f
+RM = "D:\Program Files\JetBrains\CLion 2020.1.1\bin\cmake\win\bin\cmake.exe" -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\29024\Desktop\cpp_learn
+CMAKE_SOURCE_DIR = C:\Users\Administrator\Desktop\cpp_learn
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\29024\Desktop\cpp_learn\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\Administrator\Desktop\cpp_learn\cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -58,7 +58,7 @@ CMAKE_BINARY_DIR = C:\Users\29024\Desktop\cpp_learn\cmake-build-debug
 # Special rule for the target edit_cache
 edit_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
-	"C:\Program Files\JetBrains\CLion 2020.1.1\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available."
+	"D:\Program Files\JetBrains\CLion 2020.1.1\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available."
 .PHONY : edit_cache
 
 # Special rule for the target edit_cache
@@ -69,7 +69,7 @@ edit_cache/fast: edit_cache
 # Special rule for the target rebuild_cache
 rebuild_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
-	"C:\Program Files\JetBrains\CLion 2020.1.1\bin\cmake\win\bin\cmake.exe" -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
+	"D:\Program Files\JetBrains\CLion 2020.1.1\bin\cmake\win\bin\cmake.exe" -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
 .PHONY : rebuild_cache
 
 # Special rule for the target rebuild_cache
@@ -79,9 +79,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\29024\Desktop\cpp_learn\cmake-build-debug\CMakeFiles C:\Users\29024\Desktop\cpp_learn\cmake-build-debug\CMakeFiles\progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Administrator\Desktop\cpp_learn\cmake-build-debug\CMakeFiles C:\Users\Administrator\Desktop\cpp_learn\cmake-build-debug\CMakeFiles\progress.marks
 	$(MAKE) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\29024\Desktop\cpp_learn\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Administrator\Desktop\cpp_learn\cmake-build-debug\CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -1040,6 +1040,141 @@ cpp_learn/fast:
 	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/78_list容器相关/78_list容器相关.cpp.s
 .PHONY : 78_list容器相关/78_list容器相关.cpp.s
 
+79_list排序案例/79_list排序案例.obj: 79_list排序案例/79_list排序案例.cpp.obj
+
+.PHONY : 79_list排序案例/79_list排序案例.obj
+
+# target to build an object file
+79_list排序案例/79_list排序案例.cpp.obj:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/79_list排序案例/79_list排序案例.cpp.obj
+.PHONY : 79_list排序案例/79_list排序案例.cpp.obj
+
+79_list排序案例/79_list排序案例.i: 79_list排序案例/79_list排序案例.cpp.i
+
+.PHONY : 79_list排序案例/79_list排序案例.i
+
+# target to preprocess a source file
+79_list排序案例/79_list排序案例.cpp.i:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/79_list排序案例/79_list排序案例.cpp.i
+.PHONY : 79_list排序案例/79_list排序案例.cpp.i
+
+79_list排序案例/79_list排序案例.s: 79_list排序案例/79_list排序案例.cpp.s
+
+.PHONY : 79_list排序案例/79_list排序案例.s
+
+# target to generate assembly for a file
+79_list排序案例/79_list排序案例.cpp.s:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/79_list排序案例/79_list排序案例.cpp.s
+.PHONY : 79_list排序案例/79_list排序案例.cpp.s
+
+80_set容器相关/80_set容器相关.obj: 80_set容器相关/80_set容器相关.cpp.obj
+
+.PHONY : 80_set容器相关/80_set容器相关.obj
+
+# target to build an object file
+80_set容器相关/80_set容器相关.cpp.obj:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/80_set容器相关/80_set容器相关.cpp.obj
+.PHONY : 80_set容器相关/80_set容器相关.cpp.obj
+
+80_set容器相关/80_set容器相关.i: 80_set容器相关/80_set容器相关.cpp.i
+
+.PHONY : 80_set容器相关/80_set容器相关.i
+
+# target to preprocess a source file
+80_set容器相关/80_set容器相关.cpp.i:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/80_set容器相关/80_set容器相关.cpp.i
+.PHONY : 80_set容器相关/80_set容器相关.cpp.i
+
+80_set容器相关/80_set容器相关.s: 80_set容器相关/80_set容器相关.cpp.s
+
+.PHONY : 80_set容器相关/80_set容器相关.s
+
+# target to generate assembly for a file
+80_set容器相关/80_set容器相关.cpp.s:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/80_set容器相关/80_set容器相关.cpp.s
+.PHONY : 80_set容器相关/80_set容器相关.cpp.s
+
+81_set和multiset的区别/81_set和multiset的区别.obj: 81_set和multiset的区别/81_set和multiset的区别.cpp.obj
+
+.PHONY : 81_set和multiset的区别/81_set和multiset的区别.obj
+
+# target to build an object file
+81_set和multiset的区别/81_set和multiset的区别.cpp.obj:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/81_set和multiset的区别/81_set和multiset的区别.cpp.obj
+.PHONY : 81_set和multiset的区别/81_set和multiset的区别.cpp.obj
+
+81_set和multiset的区别/81_set和multiset的区别.i: 81_set和multiset的区别/81_set和multiset的区别.cpp.i
+
+.PHONY : 81_set和multiset的区别/81_set和multiset的区别.i
+
+# target to preprocess a source file
+81_set和multiset的区别/81_set和multiset的区别.cpp.i:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/81_set和multiset的区别/81_set和multiset的区别.cpp.i
+.PHONY : 81_set和multiset的区别/81_set和multiset的区别.cpp.i
+
+81_set和multiset的区别/81_set和multiset的区别.s: 81_set和multiset的区别/81_set和multiset的区别.cpp.s
+
+.PHONY : 81_set和multiset的区别/81_set和multiset的区别.s
+
+# target to generate assembly for a file
+81_set和multiset的区别/81_set和multiset的区别.cpp.s:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/81_set和multiset的区别/81_set和multiset的区别.cpp.s
+.PHONY : 81_set和multiset的区别/81_set和multiset的区别.cpp.s
+
+82_pair对组的使用/82_pair对组的使用.obj: 82_pair对组的使用/82_pair对组的使用.cpp.obj
+
+.PHONY : 82_pair对组的使用/82_pair对组的使用.obj
+
+# target to build an object file
+82_pair对组的使用/82_pair对组的使用.cpp.obj:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/82_pair对组的使用/82_pair对组的使用.cpp.obj
+.PHONY : 82_pair对组的使用/82_pair对组的使用.cpp.obj
+
+82_pair对组的使用/82_pair对组的使用.i: 82_pair对组的使用/82_pair对组的使用.cpp.i
+
+.PHONY : 82_pair对组的使用/82_pair对组的使用.i
+
+# target to preprocess a source file
+82_pair对组的使用/82_pair对组的使用.cpp.i:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/82_pair对组的使用/82_pair对组的使用.cpp.i
+.PHONY : 82_pair对组的使用/82_pair对组的使用.cpp.i
+
+82_pair对组的使用/82_pair对组的使用.s: 82_pair对组的使用/82_pair对组的使用.cpp.s
+
+.PHONY : 82_pair对组的使用/82_pair对组的使用.s
+
+# target to generate assembly for a file
+82_pair对组的使用/82_pair对组的使用.cpp.s:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/82_pair对组的使用/82_pair对组的使用.cpp.s
+.PHONY : 82_pair对组的使用/82_pair对组的使用.cpp.s
+
+83_set容器指定排序规则/83_set容器指定排序规则.obj: 83_set容器指定排序规则/83_set容器指定排序规则.cpp.obj
+
+.PHONY : 83_set容器指定排序规则/83_set容器指定排序规则.obj
+
+# target to build an object file
+83_set容器指定排序规则/83_set容器指定排序规则.cpp.obj:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/83_set容器指定排序规则/83_set容器指定排序规则.cpp.obj
+.PHONY : 83_set容器指定排序规则/83_set容器指定排序规则.cpp.obj
+
+83_set容器指定排序规则/83_set容器指定排序规则.i: 83_set容器指定排序规则/83_set容器指定排序规则.cpp.i
+
+.PHONY : 83_set容器指定排序规则/83_set容器指定排序规则.i
+
+# target to preprocess a source file
+83_set容器指定排序规则/83_set容器指定排序规则.cpp.i:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/83_set容器指定排序规则/83_set容器指定排序规则.cpp.i
+.PHONY : 83_set容器指定排序规则/83_set容器指定排序规则.cpp.i
+
+83_set容器指定排序规则/83_set容器指定排序规则.s: 83_set容器指定排序规则/83_set容器指定排序规则.cpp.s
+
+.PHONY : 83_set容器指定排序规则/83_set容器指定排序规则.s
+
+# target to generate assembly for a file
+83_set容器指定排序规则/83_set容器指定排序规则.cpp.s:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/83_set容器指定排序规则/83_set容器指定排序规则.cpp.s
+.PHONY : 83_set容器指定排序规则/83_set容器指定排序规则.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -1151,6 +1286,21 @@ help:
 	@echo ... 78_list容器相关/78_list容器相关.obj
 	@echo ... 78_list容器相关/78_list容器相关.i
 	@echo ... 78_list容器相关/78_list容器相关.s
+	@echo ... 79_list排序案例/79_list排序案例.obj
+	@echo ... 79_list排序案例/79_list排序案例.i
+	@echo ... 79_list排序案例/79_list排序案例.s
+	@echo ... 80_set容器相关/80_set容器相关.obj
+	@echo ... 80_set容器相关/80_set容器相关.i
+	@echo ... 80_set容器相关/80_set容器相关.s
+	@echo ... 81_set和multiset的区别/81_set和multiset的区别.obj
+	@echo ... 81_set和multiset的区别/81_set和multiset的区别.i
+	@echo ... 81_set和multiset的区别/81_set和multiset的区别.s
+	@echo ... 82_pair对组的使用/82_pair对组的使用.obj
+	@echo ... 82_pair对组的使用/82_pair对组的使用.i
+	@echo ... 82_pair对组的使用/82_pair对组的使用.s
+	@echo ... 83_set容器指定排序规则/83_set容器指定排序规则.obj
+	@echo ... 83_set容器指定排序规则/83_set容器指定排序规则.i
+	@echo ... 83_set容器指定排序规则/83_set容器指定排序规则.s
 .PHONY : help
 
 
