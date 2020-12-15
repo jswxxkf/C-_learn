@@ -38,11 +38,15 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/Administrator/Desktop/cpp_learn/76_queue容器相关/76_queue容器相关.cpp" "C:/Users/Administrator/Desktop/cpp_learn/cmake-build-debug/CMakeFiles/cpp_learn.dir/76_queue容器相关/76_queue容器相关.cpp.obj"
   "C:/Users/Administrator/Desktop/cpp_learn/77_STL练习案例1/77_STL练习案例1.cpp" "C:/Users/Administrator/Desktop/cpp_learn/cmake-build-debug/CMakeFiles/cpp_learn.dir/77_STL练习案例1/77_STL练习案例1.cpp.obj"
   "C:/Users/Administrator/Desktop/cpp_learn/78_list容器相关/78_list容器相关.cpp" "C:/Users/Administrator/Desktop/cpp_learn/cmake-build-debug/CMakeFiles/cpp_learn.dir/78_list容器相关/78_list容器相关.cpp.obj"
-  "C:/Users/Administrator/Desktop/cpp_learn/79_list排序案例/79_list排序案例.cpp" "C:/Users/Administrator/Desktop/cpp_learn/cmake-build-debug/CMakeFiles/cpp_learn.dir/79_list排序案例/79_list排序案例.cpp.obj"
-  "C:/Users/Administrator/Desktop/cpp_learn/80_set容器相关/80_set容器相关.cpp" "C:/Users/Administrator/Desktop/cpp_learn/cmake-build-debug/CMakeFiles/cpp_learn.dir/80_set容器相关/80_set容器相关.cpp.obj"
-  "C:/Users/Administrator/Desktop/cpp_learn/81_set和multiset的区别/81_set和multiset的区别.cpp" "C:/Users/Administrator/Desktop/cpp_learn/cmake-build-debug/CMakeFiles/cpp_learn.dir/81_set和multiset的区别/81_set和multiset的区别.cpp.obj"
-  "C:/Users/Administrator/Desktop/cpp_learn/82_pair对组的使用/82_pair对组的使用.cpp" "C:/Users/Administrator/Desktop/cpp_learn/cmake-build-debug/CMakeFiles/cpp_learn.dir/82_pair对组的使用/82_pair对组的使用.cpp.obj"
-  "C:/Users/Administrator/Desktop/cpp_learn/83_set容器指定排序规则/83_set容器指定排序规则.cpp" "C:/Users/Administrator/Desktop/cpp_learn/cmake-build-debug/CMakeFiles/cpp_learn.dir/83_set容器指定排序规则/83_set容器指定排序规则.cpp.obj"
+  "C:/Users/Administrator/Desktop/cpp_learn/84_map容器相关/84_map容器相关.cpp" "C:/Users/Administrator/Desktop/cpp_learn/cmake-build-debug/CMakeFiles/cpp_learn.dir/84_map容器相关/84_map容器相关.cpp.obj"
+  "C:/Users/Administrator/Desktop/cpp_learn/85_map容器排序/85_map容器排序.cpp" "C:/Users/Administrator/Desktop/cpp_learn/cmake-build-debug/CMakeFiles/cpp_learn.dir/85_map容器排序/85_map容器排序.cpp.obj"
+  "C:/Users/Administrator/Desktop/cpp_learn/86_STL案例2_员工分组/86_STL案例2_员工分组.cpp" "C:/Users/Administrator/Desktop/cpp_learn/cmake-build-debug/CMakeFiles/cpp_learn.dir/86_STL案例2_员工分组/86_STL案例2_员工分组.cpp.obj"
+  "C:/Users/Administrator/Desktop/cpp_learn/87_函数对象(仿函数)/87_函数对象(仿函数).cpp" "C:/Users/Administrator/Desktop/cpp_learn/cmake-build-debug/CMakeFiles/cpp_learn.dir/87_函数对象(仿函数)/87_函数对象(仿函数).cpp.obj"
+  "C:/Users/Administrator/Desktop/cpp_learn/88_谓词与一元谓词/88_谓词与一元谓词.cpp" "C:/Users/Administrator/Desktop/cpp_learn/cmake-build-debug/CMakeFiles/cpp_learn.dir/88_谓词与一元谓词/88_谓词与一元谓词.cpp.obj"
+  "C:/Users/Administrator/Desktop/cpp_learn/89_谓词与二元谓词/89_谓词与二元谓词.cpp" "C:/Users/Administrator/Desktop/cpp_learn/cmake-build-debug/CMakeFiles/cpp_learn.dir/89_谓词与二元谓词/89_谓词与二元谓词.cpp.obj"
+  "C:/Users/Administrator/Desktop/cpp_learn/90_内置函数对象(仿函数)/90_内置函数对象(仿函数).cpp" "C:/Users/Administrator/Desktop/cpp_learn/cmake-build-debug/CMakeFiles/cpp_learn.dir/90_内置函数对象(仿函数)/90_内置函数对象(仿函数).cpp.obj"
+  "C:/Users/Administrator/Desktop/cpp_learn/91_常用遍历算法/91_常用遍历算法.cpp" "C:/Users/Administrator/Desktop/cpp_learn/cmake-build-debug/CMakeFiles/cpp_learn.dir/91_常用遍历算法/91_常用遍历算法.cpp.obj"
+  "C:/Users/Administrator/Desktop/cpp_learn/92_常用查找算法/92_常用查找算法.cpp" "C:/Users/Administrator/Desktop/cpp_learn/cmake-build-debug/CMakeFiles/cpp_learn.dir/92_常用查找算法/92_常用查找算法.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

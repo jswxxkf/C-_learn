@@ -1040,140 +1040,248 @@ cpp_learn/fast:
 	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/78_list容器相关/78_list容器相关.cpp.s
 .PHONY : 78_list容器相关/78_list容器相关.cpp.s
 
-79_list排序案例/79_list排序案例.obj: 79_list排序案例/79_list排序案例.cpp.obj
+84_map容器相关/84_map容器相关.obj: 84_map容器相关/84_map容器相关.cpp.obj
 
-.PHONY : 79_list排序案例/79_list排序案例.obj
-
-# target to build an object file
-79_list排序案例/79_list排序案例.cpp.obj:
-	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/79_list排序案例/79_list排序案例.cpp.obj
-.PHONY : 79_list排序案例/79_list排序案例.cpp.obj
-
-79_list排序案例/79_list排序案例.i: 79_list排序案例/79_list排序案例.cpp.i
-
-.PHONY : 79_list排序案例/79_list排序案例.i
-
-# target to preprocess a source file
-79_list排序案例/79_list排序案例.cpp.i:
-	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/79_list排序案例/79_list排序案例.cpp.i
-.PHONY : 79_list排序案例/79_list排序案例.cpp.i
-
-79_list排序案例/79_list排序案例.s: 79_list排序案例/79_list排序案例.cpp.s
-
-.PHONY : 79_list排序案例/79_list排序案例.s
-
-# target to generate assembly for a file
-79_list排序案例/79_list排序案例.cpp.s:
-	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/79_list排序案例/79_list排序案例.cpp.s
-.PHONY : 79_list排序案例/79_list排序案例.cpp.s
-
-80_set容器相关/80_set容器相关.obj: 80_set容器相关/80_set容器相关.cpp.obj
-
-.PHONY : 80_set容器相关/80_set容器相关.obj
+.PHONY : 84_map容器相关/84_map容器相关.obj
 
 # target to build an object file
-80_set容器相关/80_set容器相关.cpp.obj:
-	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/80_set容器相关/80_set容器相关.cpp.obj
-.PHONY : 80_set容器相关/80_set容器相关.cpp.obj
+84_map容器相关/84_map容器相关.cpp.obj:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/84_map容器相关/84_map容器相关.cpp.obj
+.PHONY : 84_map容器相关/84_map容器相关.cpp.obj
 
-80_set容器相关/80_set容器相关.i: 80_set容器相关/80_set容器相关.cpp.i
+84_map容器相关/84_map容器相关.i: 84_map容器相关/84_map容器相关.cpp.i
 
-.PHONY : 80_set容器相关/80_set容器相关.i
+.PHONY : 84_map容器相关/84_map容器相关.i
 
 # target to preprocess a source file
-80_set容器相关/80_set容器相关.cpp.i:
-	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/80_set容器相关/80_set容器相关.cpp.i
-.PHONY : 80_set容器相关/80_set容器相关.cpp.i
+84_map容器相关/84_map容器相关.cpp.i:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/84_map容器相关/84_map容器相关.cpp.i
+.PHONY : 84_map容器相关/84_map容器相关.cpp.i
 
-80_set容器相关/80_set容器相关.s: 80_set容器相关/80_set容器相关.cpp.s
+84_map容器相关/84_map容器相关.s: 84_map容器相关/84_map容器相关.cpp.s
 
-.PHONY : 80_set容器相关/80_set容器相关.s
+.PHONY : 84_map容器相关/84_map容器相关.s
 
 # target to generate assembly for a file
-80_set容器相关/80_set容器相关.cpp.s:
-	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/80_set容器相关/80_set容器相关.cpp.s
-.PHONY : 80_set容器相关/80_set容器相关.cpp.s
+84_map容器相关/84_map容器相关.cpp.s:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/84_map容器相关/84_map容器相关.cpp.s
+.PHONY : 84_map容器相关/84_map容器相关.cpp.s
 
-81_set和multiset的区别/81_set和multiset的区别.obj: 81_set和multiset的区别/81_set和multiset的区别.cpp.obj
+85_map容器排序/85_map容器排序.obj: 85_map容器排序/85_map容器排序.cpp.obj
 
-.PHONY : 81_set和multiset的区别/81_set和multiset的区别.obj
+.PHONY : 85_map容器排序/85_map容器排序.obj
 
 # target to build an object file
-81_set和multiset的区别/81_set和multiset的区别.cpp.obj:
-	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/81_set和multiset的区别/81_set和multiset的区别.cpp.obj
-.PHONY : 81_set和multiset的区别/81_set和multiset的区别.cpp.obj
+85_map容器排序/85_map容器排序.cpp.obj:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/85_map容器排序/85_map容器排序.cpp.obj
+.PHONY : 85_map容器排序/85_map容器排序.cpp.obj
 
-81_set和multiset的区别/81_set和multiset的区别.i: 81_set和multiset的区别/81_set和multiset的区别.cpp.i
+85_map容器排序/85_map容器排序.i: 85_map容器排序/85_map容器排序.cpp.i
 
-.PHONY : 81_set和multiset的区别/81_set和multiset的区别.i
+.PHONY : 85_map容器排序/85_map容器排序.i
 
 # target to preprocess a source file
-81_set和multiset的区别/81_set和multiset的区别.cpp.i:
-	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/81_set和multiset的区别/81_set和multiset的区别.cpp.i
-.PHONY : 81_set和multiset的区别/81_set和multiset的区别.cpp.i
+85_map容器排序/85_map容器排序.cpp.i:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/85_map容器排序/85_map容器排序.cpp.i
+.PHONY : 85_map容器排序/85_map容器排序.cpp.i
 
-81_set和multiset的区别/81_set和multiset的区别.s: 81_set和multiset的区别/81_set和multiset的区别.cpp.s
+85_map容器排序/85_map容器排序.s: 85_map容器排序/85_map容器排序.cpp.s
 
-.PHONY : 81_set和multiset的区别/81_set和multiset的区别.s
+.PHONY : 85_map容器排序/85_map容器排序.s
 
 # target to generate assembly for a file
-81_set和multiset的区别/81_set和multiset的区别.cpp.s:
-	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/81_set和multiset的区别/81_set和multiset的区别.cpp.s
-.PHONY : 81_set和multiset的区别/81_set和multiset的区别.cpp.s
+85_map容器排序/85_map容器排序.cpp.s:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/85_map容器排序/85_map容器排序.cpp.s
+.PHONY : 85_map容器排序/85_map容器排序.cpp.s
 
-82_pair对组的使用/82_pair对组的使用.obj: 82_pair对组的使用/82_pair对组的使用.cpp.obj
+86_STL案例2_员工分组/86_STL案例2_员工分组.obj: 86_STL案例2_员工分组/86_STL案例2_员工分组.cpp.obj
 
-.PHONY : 82_pair对组的使用/82_pair对组的使用.obj
+.PHONY : 86_STL案例2_员工分组/86_STL案例2_员工分组.obj
 
 # target to build an object file
-82_pair对组的使用/82_pair对组的使用.cpp.obj:
-	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/82_pair对组的使用/82_pair对组的使用.cpp.obj
-.PHONY : 82_pair对组的使用/82_pair对组的使用.cpp.obj
+86_STL案例2_员工分组/86_STL案例2_员工分组.cpp.obj:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/86_STL案例2_员工分组/86_STL案例2_员工分组.cpp.obj
+.PHONY : 86_STL案例2_员工分组/86_STL案例2_员工分组.cpp.obj
 
-82_pair对组的使用/82_pair对组的使用.i: 82_pair对组的使用/82_pair对组的使用.cpp.i
+86_STL案例2_员工分组/86_STL案例2_员工分组.i: 86_STL案例2_员工分组/86_STL案例2_员工分组.cpp.i
 
-.PHONY : 82_pair对组的使用/82_pair对组的使用.i
+.PHONY : 86_STL案例2_员工分组/86_STL案例2_员工分组.i
 
 # target to preprocess a source file
-82_pair对组的使用/82_pair对组的使用.cpp.i:
-	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/82_pair对组的使用/82_pair对组的使用.cpp.i
-.PHONY : 82_pair对组的使用/82_pair对组的使用.cpp.i
+86_STL案例2_员工分组/86_STL案例2_员工分组.cpp.i:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/86_STL案例2_员工分组/86_STL案例2_员工分组.cpp.i
+.PHONY : 86_STL案例2_员工分组/86_STL案例2_员工分组.cpp.i
 
-82_pair对组的使用/82_pair对组的使用.s: 82_pair对组的使用/82_pair对组的使用.cpp.s
+86_STL案例2_员工分组/86_STL案例2_员工分组.s: 86_STL案例2_员工分组/86_STL案例2_员工分组.cpp.s
 
-.PHONY : 82_pair对组的使用/82_pair对组的使用.s
+.PHONY : 86_STL案例2_员工分组/86_STL案例2_员工分组.s
 
 # target to generate assembly for a file
-82_pair对组的使用/82_pair对组的使用.cpp.s:
-	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/82_pair对组的使用/82_pair对组的使用.cpp.s
-.PHONY : 82_pair对组的使用/82_pair对组的使用.cpp.s
+86_STL案例2_员工分组/86_STL案例2_员工分组.cpp.s:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/86_STL案例2_员工分组/86_STL案例2_员工分组.cpp.s
+.PHONY : 86_STL案例2_员工分组/86_STL案例2_员工分组.cpp.s
 
-83_set容器指定排序规则/83_set容器指定排序规则.obj: 83_set容器指定排序规则/83_set容器指定排序规则.cpp.obj
+87_函数对象(仿函数)/87_函数对象(仿函数).obj: 87_函数对象(仿函数)/87_函数对象(仿函数).cpp.obj
 
-.PHONY : 83_set容器指定排序规则/83_set容器指定排序规则.obj
+.PHONY : 87_函数对象(仿函数)/87_函数对象(仿函数).obj
 
 # target to build an object file
-83_set容器指定排序规则/83_set容器指定排序规则.cpp.obj:
-	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/83_set容器指定排序规则/83_set容器指定排序规则.cpp.obj
-.PHONY : 83_set容器指定排序规则/83_set容器指定排序规则.cpp.obj
+87_函数对象(仿函数)/87_函数对象(仿函数).cpp.obj:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/87_函数对象(仿函数)/87_函数对象(仿函数).cpp.obj
+.PHONY : 87_函数对象(仿函数)/87_函数对象(仿函数).cpp.obj
 
-83_set容器指定排序规则/83_set容器指定排序规则.i: 83_set容器指定排序规则/83_set容器指定排序规则.cpp.i
+87_函数对象(仿函数)/87_函数对象(仿函数).i: 87_函数对象(仿函数)/87_函数对象(仿函数).cpp.i
 
-.PHONY : 83_set容器指定排序规则/83_set容器指定排序规则.i
+.PHONY : 87_函数对象(仿函数)/87_函数对象(仿函数).i
 
 # target to preprocess a source file
-83_set容器指定排序规则/83_set容器指定排序规则.cpp.i:
-	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/83_set容器指定排序规则/83_set容器指定排序规则.cpp.i
-.PHONY : 83_set容器指定排序规则/83_set容器指定排序规则.cpp.i
+87_函数对象(仿函数)/87_函数对象(仿函数).cpp.i:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/87_函数对象(仿函数)/87_函数对象(仿函数).cpp.i
+.PHONY : 87_函数对象(仿函数)/87_函数对象(仿函数).cpp.i
 
-83_set容器指定排序规则/83_set容器指定排序规则.s: 83_set容器指定排序规则/83_set容器指定排序规则.cpp.s
+87_函数对象(仿函数)/87_函数对象(仿函数).s: 87_函数对象(仿函数)/87_函数对象(仿函数).cpp.s
 
-.PHONY : 83_set容器指定排序规则/83_set容器指定排序规则.s
+.PHONY : 87_函数对象(仿函数)/87_函数对象(仿函数).s
 
 # target to generate assembly for a file
-83_set容器指定排序规则/83_set容器指定排序规则.cpp.s:
-	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/83_set容器指定排序规则/83_set容器指定排序规则.cpp.s
-.PHONY : 83_set容器指定排序规则/83_set容器指定排序规则.cpp.s
+87_函数对象(仿函数)/87_函数对象(仿函数).cpp.s:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/87_函数对象(仿函数)/87_函数对象(仿函数).cpp.s
+.PHONY : 87_函数对象(仿函数)/87_函数对象(仿函数).cpp.s
+
+88_谓词与一元谓词/88_谓词与一元谓词.obj: 88_谓词与一元谓词/88_谓词与一元谓词.cpp.obj
+
+.PHONY : 88_谓词与一元谓词/88_谓词与一元谓词.obj
+
+# target to build an object file
+88_谓词与一元谓词/88_谓词与一元谓词.cpp.obj:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/88_谓词与一元谓词/88_谓词与一元谓词.cpp.obj
+.PHONY : 88_谓词与一元谓词/88_谓词与一元谓词.cpp.obj
+
+88_谓词与一元谓词/88_谓词与一元谓词.i: 88_谓词与一元谓词/88_谓词与一元谓词.cpp.i
+
+.PHONY : 88_谓词与一元谓词/88_谓词与一元谓词.i
+
+# target to preprocess a source file
+88_谓词与一元谓词/88_谓词与一元谓词.cpp.i:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/88_谓词与一元谓词/88_谓词与一元谓词.cpp.i
+.PHONY : 88_谓词与一元谓词/88_谓词与一元谓词.cpp.i
+
+88_谓词与一元谓词/88_谓词与一元谓词.s: 88_谓词与一元谓词/88_谓词与一元谓词.cpp.s
+
+.PHONY : 88_谓词与一元谓词/88_谓词与一元谓词.s
+
+# target to generate assembly for a file
+88_谓词与一元谓词/88_谓词与一元谓词.cpp.s:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/88_谓词与一元谓词/88_谓词与一元谓词.cpp.s
+.PHONY : 88_谓词与一元谓词/88_谓词与一元谓词.cpp.s
+
+89_谓词与二元谓词/89_谓词与二元谓词.obj: 89_谓词与二元谓词/89_谓词与二元谓词.cpp.obj
+
+.PHONY : 89_谓词与二元谓词/89_谓词与二元谓词.obj
+
+# target to build an object file
+89_谓词与二元谓词/89_谓词与二元谓词.cpp.obj:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/89_谓词与二元谓词/89_谓词与二元谓词.cpp.obj
+.PHONY : 89_谓词与二元谓词/89_谓词与二元谓词.cpp.obj
+
+89_谓词与二元谓词/89_谓词与二元谓词.i: 89_谓词与二元谓词/89_谓词与二元谓词.cpp.i
+
+.PHONY : 89_谓词与二元谓词/89_谓词与二元谓词.i
+
+# target to preprocess a source file
+89_谓词与二元谓词/89_谓词与二元谓词.cpp.i:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/89_谓词与二元谓词/89_谓词与二元谓词.cpp.i
+.PHONY : 89_谓词与二元谓词/89_谓词与二元谓词.cpp.i
+
+89_谓词与二元谓词/89_谓词与二元谓词.s: 89_谓词与二元谓词/89_谓词与二元谓词.cpp.s
+
+.PHONY : 89_谓词与二元谓词/89_谓词与二元谓词.s
+
+# target to generate assembly for a file
+89_谓词与二元谓词/89_谓词与二元谓词.cpp.s:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/89_谓词与二元谓词/89_谓词与二元谓词.cpp.s
+.PHONY : 89_谓词与二元谓词/89_谓词与二元谓词.cpp.s
+
+90_内置函数对象(仿函数)/90_内置函数对象(仿函数).obj: 90_内置函数对象(仿函数)/90_内置函数对象(仿函数).cpp.obj
+
+.PHONY : 90_内置函数对象(仿函数)/90_内置函数对象(仿函数).obj
+
+# target to build an object file
+90_内置函数对象(仿函数)/90_内置函数对象(仿函数).cpp.obj:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/90_内置函数对象(仿函数)/90_内置函数对象(仿函数).cpp.obj
+.PHONY : 90_内置函数对象(仿函数)/90_内置函数对象(仿函数).cpp.obj
+
+90_内置函数对象(仿函数)/90_内置函数对象(仿函数).i: 90_内置函数对象(仿函数)/90_内置函数对象(仿函数).cpp.i
+
+.PHONY : 90_内置函数对象(仿函数)/90_内置函数对象(仿函数).i
+
+# target to preprocess a source file
+90_内置函数对象(仿函数)/90_内置函数对象(仿函数).cpp.i:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/90_内置函数对象(仿函数)/90_内置函数对象(仿函数).cpp.i
+.PHONY : 90_内置函数对象(仿函数)/90_内置函数对象(仿函数).cpp.i
+
+90_内置函数对象(仿函数)/90_内置函数对象(仿函数).s: 90_内置函数对象(仿函数)/90_内置函数对象(仿函数).cpp.s
+
+.PHONY : 90_内置函数对象(仿函数)/90_内置函数对象(仿函数).s
+
+# target to generate assembly for a file
+90_内置函数对象(仿函数)/90_内置函数对象(仿函数).cpp.s:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/90_内置函数对象(仿函数)/90_内置函数对象(仿函数).cpp.s
+.PHONY : 90_内置函数对象(仿函数)/90_内置函数对象(仿函数).cpp.s
+
+91_常用遍历算法/91_常用遍历算法.obj: 91_常用遍历算法/91_常用遍历算法.cpp.obj
+
+.PHONY : 91_常用遍历算法/91_常用遍历算法.obj
+
+# target to build an object file
+91_常用遍历算法/91_常用遍历算法.cpp.obj:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/91_常用遍历算法/91_常用遍历算法.cpp.obj
+.PHONY : 91_常用遍历算法/91_常用遍历算法.cpp.obj
+
+91_常用遍历算法/91_常用遍历算法.i: 91_常用遍历算法/91_常用遍历算法.cpp.i
+
+.PHONY : 91_常用遍历算法/91_常用遍历算法.i
+
+# target to preprocess a source file
+91_常用遍历算法/91_常用遍历算法.cpp.i:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/91_常用遍历算法/91_常用遍历算法.cpp.i
+.PHONY : 91_常用遍历算法/91_常用遍历算法.cpp.i
+
+91_常用遍历算法/91_常用遍历算法.s: 91_常用遍历算法/91_常用遍历算法.cpp.s
+
+.PHONY : 91_常用遍历算法/91_常用遍历算法.s
+
+# target to generate assembly for a file
+91_常用遍历算法/91_常用遍历算法.cpp.s:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/91_常用遍历算法/91_常用遍历算法.cpp.s
+.PHONY : 91_常用遍历算法/91_常用遍历算法.cpp.s
+
+92_常用查找算法/92_常用查找算法.obj: 92_常用查找算法/92_常用查找算法.cpp.obj
+
+.PHONY : 92_常用查找算法/92_常用查找算法.obj
+
+# target to build an object file
+92_常用查找算法/92_常用查找算法.cpp.obj:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/92_常用查找算法/92_常用查找算法.cpp.obj
+.PHONY : 92_常用查找算法/92_常用查找算法.cpp.obj
+
+92_常用查找算法/92_常用查找算法.i: 92_常用查找算法/92_常用查找算法.cpp.i
+
+.PHONY : 92_常用查找算法/92_常用查找算法.i
+
+# target to preprocess a source file
+92_常用查找算法/92_常用查找算法.cpp.i:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/92_常用查找算法/92_常用查找算法.cpp.i
+.PHONY : 92_常用查找算法/92_常用查找算法.cpp.i
+
+92_常用查找算法/92_常用查找算法.s: 92_常用查找算法/92_常用查找算法.cpp.s
+
+.PHONY : 92_常用查找算法/92_常用查找算法.s
+
+# target to generate assembly for a file
+92_常用查找算法/92_常用查找算法.cpp.s:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/92_常用查找算法/92_常用查找算法.cpp.s
+.PHONY : 92_常用查找算法/92_常用查找算法.cpp.s
 
 # Help Target
 help:
@@ -1286,21 +1394,33 @@ help:
 	@echo ... 78_list容器相关/78_list容器相关.obj
 	@echo ... 78_list容器相关/78_list容器相关.i
 	@echo ... 78_list容器相关/78_list容器相关.s
-	@echo ... 79_list排序案例/79_list排序案例.obj
-	@echo ... 79_list排序案例/79_list排序案例.i
-	@echo ... 79_list排序案例/79_list排序案例.s
-	@echo ... 80_set容器相关/80_set容器相关.obj
-	@echo ... 80_set容器相关/80_set容器相关.i
-	@echo ... 80_set容器相关/80_set容器相关.s
-	@echo ... 81_set和multiset的区别/81_set和multiset的区别.obj
-	@echo ... 81_set和multiset的区别/81_set和multiset的区别.i
-	@echo ... 81_set和multiset的区别/81_set和multiset的区别.s
-	@echo ... 82_pair对组的使用/82_pair对组的使用.obj
-	@echo ... 82_pair对组的使用/82_pair对组的使用.i
-	@echo ... 82_pair对组的使用/82_pair对组的使用.s
-	@echo ... 83_set容器指定排序规则/83_set容器指定排序规则.obj
-	@echo ... 83_set容器指定排序规则/83_set容器指定排序规则.i
-	@echo ... 83_set容器指定排序规则/83_set容器指定排序规则.s
+	@echo ... 84_map容器相关/84_map容器相关.obj
+	@echo ... 84_map容器相关/84_map容器相关.i
+	@echo ... 84_map容器相关/84_map容器相关.s
+	@echo ... 85_map容器排序/85_map容器排序.obj
+	@echo ... 85_map容器排序/85_map容器排序.i
+	@echo ... 85_map容器排序/85_map容器排序.s
+	@echo ... 86_STL案例2_员工分组/86_STL案例2_员工分组.obj
+	@echo ... 86_STL案例2_员工分组/86_STL案例2_员工分组.i
+	@echo ... 86_STL案例2_员工分组/86_STL案例2_员工分组.s
+	@echo ... 87_函数对象(仿函数)/87_函数对象(仿函数).obj
+	@echo ... 87_函数对象(仿函数)/87_函数对象(仿函数).i
+	@echo ... 87_函数对象(仿函数)/87_函数对象(仿函数).s
+	@echo ... 88_谓词与一元谓词/88_谓词与一元谓词.obj
+	@echo ... 88_谓词与一元谓词/88_谓词与一元谓词.i
+	@echo ... 88_谓词与一元谓词/88_谓词与一元谓词.s
+	@echo ... 89_谓词与二元谓词/89_谓词与二元谓词.obj
+	@echo ... 89_谓词与二元谓词/89_谓词与二元谓词.i
+	@echo ... 89_谓词与二元谓词/89_谓词与二元谓词.s
+	@echo ... 90_内置函数对象(仿函数)/90_内置函数对象(仿函数).obj
+	@echo ... 90_内置函数对象(仿函数)/90_内置函数对象(仿函数).i
+	@echo ... 90_内置函数对象(仿函数)/90_内置函数对象(仿函数).s
+	@echo ... 91_常用遍历算法/91_常用遍历算法.obj
+	@echo ... 91_常用遍历算法/91_常用遍历算法.i
+	@echo ... 91_常用遍历算法/91_常用遍历算法.s
+	@echo ... 92_常用查找算法/92_常用查找算法.obj
+	@echo ... 92_常用查找算法/92_常用查找算法.i
+	@echo ... 92_常用查找算法/92_常用查找算法.s
 .PHONY : help
 
 
