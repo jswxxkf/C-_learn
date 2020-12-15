@@ -498,6 +498,97 @@ CMakeFiles/cpp_learn.dir/78_list容器相关/78_list容器相关.cpp.s: cmake_fo
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_learn.dir/78_list容器相关/78_list容器相关.cpp.s"
 	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\29024\Desktop\cpp_learn\78_list容器相关\78_list容器相关.cpp -o CMakeFiles\cpp_learn.dir\78_list容器相关\78_list容器相关.cpp.s
 
+CMakeFiles/cpp_learn.dir/84_map容器相关/84_map容器相关.cpp.obj: CMakeFiles/cpp_learn.dir/flags.make
+CMakeFiles/cpp_learn.dir/84_map容器相关/84_map容器相关.cpp.obj: ../84_map容器相关/84_map容器相关.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\29024\Desktop\cpp_learn\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building CXX object CMakeFiles/cpp_learn.dir/84_map容器相关/84_map容器相关.cpp.obj"
+	D:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cpp_learn.dir\84_map容器相关\84_map容器相关.cpp.obj -c C:\Users\29024\Desktop\cpp_learn\84_map容器相关\84_map容器相关.cpp
+
+CMakeFiles/cpp_learn.dir/84_map容器相关/84_map容器相关.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_learn.dir/84_map容器相关/84_map容器相关.cpp.i"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\29024\Desktop\cpp_learn\84_map容器相关\84_map容器相关.cpp > CMakeFiles\cpp_learn.dir\84_map容器相关\84_map容器相关.cpp.i
+
+CMakeFiles/cpp_learn.dir/84_map容器相关/84_map容器相关.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_learn.dir/84_map容器相关/84_map容器相关.cpp.s"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\29024\Desktop\cpp_learn\84_map容器相关\84_map容器相关.cpp -o CMakeFiles\cpp_learn.dir\84_map容器相关\84_map容器相关.cpp.s
+
+CMakeFiles/cpp_learn.dir/85_map容器排序/85_map容器排序.cpp.obj: CMakeFiles/cpp_learn.dir/flags.make
+CMakeFiles/cpp_learn.dir/85_map容器排序/85_map容器排序.cpp.obj: ../85_map容器排序/85_map容器排序.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\29024\Desktop\cpp_learn\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building CXX object CMakeFiles/cpp_learn.dir/85_map容器排序/85_map容器排序.cpp.obj"
+	D:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cpp_learn.dir\85_map容器排序\85_map容器排序.cpp.obj -c C:\Users\29024\Desktop\cpp_learn\85_map容器排序\85_map容器排序.cpp
+
+CMakeFiles/cpp_learn.dir/85_map容器排序/85_map容器排序.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_learn.dir/85_map容器排序/85_map容器排序.cpp.i"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\29024\Desktop\cpp_learn\85_map容器排序\85_map容器排序.cpp > CMakeFiles\cpp_learn.dir\85_map容器排序\85_map容器排序.cpp.i
+
+CMakeFiles/cpp_learn.dir/85_map容器排序/85_map容器排序.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_learn.dir/85_map容器排序/85_map容器排序.cpp.s"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\29024\Desktop\cpp_learn\85_map容器排序\85_map容器排序.cpp -o CMakeFiles\cpp_learn.dir\85_map容器排序\85_map容器排序.cpp.s
+
+CMakeFiles/cpp_learn.dir/86_STL案例2_员工分组/86_STL案例2_员工分组.cpp.obj: CMakeFiles/cpp_learn.dir/flags.make
+CMakeFiles/cpp_learn.dir/86_STL案例2_员工分组/86_STL案例2_员工分组.cpp.obj: ../86_STL案例2_员工分组/86_STL案例2_员工分组.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\29024\Desktop\cpp_learn\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building CXX object CMakeFiles/cpp_learn.dir/86_STL案例2_员工分组/86_STL案例2_员工分组.cpp.obj"
+	D:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cpp_learn.dir\86_STL案例2_员工分组\86_STL案例2_员工分组.cpp.obj -c C:\Users\29024\Desktop\cpp_learn\86_STL案例2_员工分组\86_STL案例2_员工分组.cpp
+
+CMakeFiles/cpp_learn.dir/86_STL案例2_员工分组/86_STL案例2_员工分组.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_learn.dir/86_STL案例2_员工分组/86_STL案例2_员工分组.cpp.i"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\29024\Desktop\cpp_learn\86_STL案例2_员工分组\86_STL案例2_员工分组.cpp > CMakeFiles\cpp_learn.dir\86_STL案例2_员工分组\86_STL案例2_员工分组.cpp.i
+
+CMakeFiles/cpp_learn.dir/86_STL案例2_员工分组/86_STL案例2_员工分组.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_learn.dir/86_STL案例2_员工分组/86_STL案例2_员工分组.cpp.s"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\29024\Desktop\cpp_learn\86_STL案例2_员工分组\86_STL案例2_员工分组.cpp -o CMakeFiles\cpp_learn.dir\86_STL案例2_员工分组\86_STL案例2_员工分组.cpp.s
+
+CMakeFiles/cpp_learn.dir/87_函数对象(仿函数)/87_函数对象(仿函数).cpp.obj: CMakeFiles/cpp_learn.dir/flags.make
+CMakeFiles/cpp_learn.dir/87_函数对象(仿函数)/87_函数对象(仿函数).cpp.obj: ../87_函数对象(仿函数)/87_函数对象(仿函数).cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\29024\Desktop\cpp_learn\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building CXX object CMakeFiles/cpp_learn.dir/87_函数对象(仿函数)/87_函数对象(仿函数).cpp.obj"
+	D:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cpp_learn.dir\87_函数对象(仿函数)\87_函数对象(仿函数).cpp.obj -c C:\Users\29024\Desktop\cpp_learn\87_函数对象(仿函数)\87_函数对象(仿函数).cpp
+
+CMakeFiles/cpp_learn.dir/87_函数对象(仿函数)/87_函数对象(仿函数).cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_learn.dir/87_函数对象(仿函数)/87_函数对象(仿函数).cpp.i"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\29024\Desktop\cpp_learn\87_函数对象(仿函数)\87_函数对象(仿函数).cpp > CMakeFiles\cpp_learn.dir\87_函数对象(仿函数)\87_函数对象(仿函数).cpp.i
+
+CMakeFiles/cpp_learn.dir/87_函数对象(仿函数)/87_函数对象(仿函数).cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_learn.dir/87_函数对象(仿函数)/87_函数对象(仿函数).cpp.s"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\29024\Desktop\cpp_learn\87_函数对象(仿函数)\87_函数对象(仿函数).cpp -o CMakeFiles\cpp_learn.dir\87_函数对象(仿函数)\87_函数对象(仿函数).cpp.s
+
+CMakeFiles/cpp_learn.dir/88_谓词与一元谓词/88_谓词与一元谓词.cpp.obj: CMakeFiles/cpp_learn.dir/flags.make
+CMakeFiles/cpp_learn.dir/88_谓词与一元谓词/88_谓词与一元谓词.cpp.obj: ../88_谓词与一元谓词/88_谓词与一元谓词.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\29024\Desktop\cpp_learn\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building CXX object CMakeFiles/cpp_learn.dir/88_谓词与一元谓词/88_谓词与一元谓词.cpp.obj"
+	D:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cpp_learn.dir\88_谓词与一元谓词\88_谓词与一元谓词.cpp.obj -c C:\Users\29024\Desktop\cpp_learn\88_谓词与一元谓词\88_谓词与一元谓词.cpp
+
+CMakeFiles/cpp_learn.dir/88_谓词与一元谓词/88_谓词与一元谓词.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_learn.dir/88_谓词与一元谓词/88_谓词与一元谓词.cpp.i"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\29024\Desktop\cpp_learn\88_谓词与一元谓词\88_谓词与一元谓词.cpp > CMakeFiles\cpp_learn.dir\88_谓词与一元谓词\88_谓词与一元谓词.cpp.i
+
+CMakeFiles/cpp_learn.dir/88_谓词与一元谓词/88_谓词与一元谓词.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_learn.dir/88_谓词与一元谓词/88_谓词与一元谓词.cpp.s"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\29024\Desktop\cpp_learn\88_谓词与一元谓词\88_谓词与一元谓词.cpp -o CMakeFiles\cpp_learn.dir\88_谓词与一元谓词\88_谓词与一元谓词.cpp.s
+
+CMakeFiles/cpp_learn.dir/89_谓词与二元谓词/89_谓词与二元谓词.cpp.obj: CMakeFiles/cpp_learn.dir/flags.make
+CMakeFiles/cpp_learn.dir/89_谓词与二元谓词/89_谓词与二元谓词.cpp.obj: ../89_谓词与二元谓词/89_谓词与二元谓词.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\29024\Desktop\cpp_learn\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building CXX object CMakeFiles/cpp_learn.dir/89_谓词与二元谓词/89_谓词与二元谓词.cpp.obj"
+	D:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cpp_learn.dir\89_谓词与二元谓词\89_谓词与二元谓词.cpp.obj -c C:\Users\29024\Desktop\cpp_learn\89_谓词与二元谓词\89_谓词与二元谓词.cpp
+
+CMakeFiles/cpp_learn.dir/89_谓词与二元谓词/89_谓词与二元谓词.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_learn.dir/89_谓词与二元谓词/89_谓词与二元谓词.cpp.i"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\29024\Desktop\cpp_learn\89_谓词与二元谓词\89_谓词与二元谓词.cpp > CMakeFiles\cpp_learn.dir\89_谓词与二元谓词\89_谓词与二元谓词.cpp.i
+
+CMakeFiles/cpp_learn.dir/89_谓词与二元谓词/89_谓词与二元谓词.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_learn.dir/89_谓词与二元谓词/89_谓词与二元谓词.cpp.s"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\29024\Desktop\cpp_learn\89_谓词与二元谓词\89_谓词与二元谓词.cpp -o CMakeFiles\cpp_learn.dir\89_谓词与二元谓词\89_谓词与二元谓词.cpp.s
+
+CMakeFiles/cpp_learn.dir/90_内置函数对象(仿函数)/90_内置函数对象(仿函数).cpp.obj: CMakeFiles/cpp_learn.dir/flags.make
+CMakeFiles/cpp_learn.dir/90_内置函数对象(仿函数)/90_内置函数对象(仿函数).cpp.obj: ../90_内置函数对象(仿函数)/90_内置函数对象(仿函数).cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\29024\Desktop\cpp_learn\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building CXX object CMakeFiles/cpp_learn.dir/90_内置函数对象(仿函数)/90_内置函数对象(仿函数).cpp.obj"
+	D:\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cpp_learn.dir\90_内置函数对象(仿函数)\90_内置函数对象(仿函数).cpp.obj -c C:\Users\29024\Desktop\cpp_learn\90_内置函数对象(仿函数)\90_内置函数对象(仿函数).cpp
+
+CMakeFiles/cpp_learn.dir/90_内置函数对象(仿函数)/90_内置函数对象(仿函数).cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_learn.dir/90_内置函数对象(仿函数)/90_内置函数对象(仿函数).cpp.i"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\29024\Desktop\cpp_learn\90_内置函数对象(仿函数)\90_内置函数对象(仿函数).cpp > CMakeFiles\cpp_learn.dir\90_内置函数对象(仿函数)\90_内置函数对象(仿函数).cpp.i
+
+CMakeFiles/cpp_learn.dir/90_内置函数对象(仿函数)/90_内置函数对象(仿函数).cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_learn.dir/90_内置函数对象(仿函数)/90_内置函数对象(仿函数).cpp.s"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\29024\Desktop\cpp_learn\90_内置函数对象(仿函数)\90_内置函数对象(仿函数).cpp -o CMakeFiles\cpp_learn.dir\90_内置函数对象(仿函数)\90_内置函数对象(仿函数).cpp.s
+
 # Object files for target cpp_learn
 cpp_learn_OBJECTS = \
 "CMakeFiles/cpp_learn.dir/46_多态应用_制作饮品/46_多态应用_制作饮品.cpp.obj" \
@@ -533,7 +624,14 @@ cpp_learn_OBJECTS = \
 "CMakeFiles/cpp_learn.dir/75_stack容器相关/75_stack容器相关.cpp.obj" \
 "CMakeFiles/cpp_learn.dir/76_queue容器相关/76_queue容器相关.cpp.obj" \
 "CMakeFiles/cpp_learn.dir/77_STL练习案例1/77_STL练习案例1.cpp.obj" \
-"CMakeFiles/cpp_learn.dir/78_list容器相关/78_list容器相关.cpp.obj"
+"CMakeFiles/cpp_learn.dir/78_list容器相关/78_list容器相关.cpp.obj" \
+"CMakeFiles/cpp_learn.dir/84_map容器相关/84_map容器相关.cpp.obj" \
+"CMakeFiles/cpp_learn.dir/85_map容器排序/85_map容器排序.cpp.obj" \
+"CMakeFiles/cpp_learn.dir/86_STL案例2_员工分组/86_STL案例2_员工分组.cpp.obj" \
+"CMakeFiles/cpp_learn.dir/87_函数对象(仿函数)/87_函数对象(仿函数).cpp.obj" \
+"CMakeFiles/cpp_learn.dir/88_谓词与一元谓词/88_谓词与一元谓词.cpp.obj" \
+"CMakeFiles/cpp_learn.dir/89_谓词与二元谓词/89_谓词与二元谓词.cpp.obj" \
+"CMakeFiles/cpp_learn.dir/90_内置函数对象(仿函数)/90_内置函数对象(仿函数).cpp.obj"
 
 # External object files for target cpp_learn
 cpp_learn_EXTERNAL_OBJECTS =
@@ -572,11 +670,18 @@ cpp_learn.exe: CMakeFiles/cpp_learn.dir/75_stack容器相关/75_stack容器相�
 cpp_learn.exe: CMakeFiles/cpp_learn.dir/76_queue容器相关/76_queue容器相关.cpp.obj
 cpp_learn.exe: CMakeFiles/cpp_learn.dir/77_STL练习案例1/77_STL练习案例1.cpp.obj
 cpp_learn.exe: CMakeFiles/cpp_learn.dir/78_list容器相关/78_list容器相关.cpp.obj
+cpp_learn.exe: CMakeFiles/cpp_learn.dir/84_map容器相关/84_map容器相关.cpp.obj
+cpp_learn.exe: CMakeFiles/cpp_learn.dir/85_map容器排序/85_map容器排序.cpp.obj
+cpp_learn.exe: CMakeFiles/cpp_learn.dir/86_STL案例2_员工分组/86_STL案例2_员工分组.cpp.obj
+cpp_learn.exe: CMakeFiles/cpp_learn.dir/87_函数对象(仿函数)/87_函数对象(仿函数).cpp.obj
+cpp_learn.exe: CMakeFiles/cpp_learn.dir/88_谓词与一元谓词/88_谓词与一元谓词.cpp.obj
+cpp_learn.exe: CMakeFiles/cpp_learn.dir/89_谓词与二元谓词/89_谓词与二元谓词.cpp.obj
+cpp_learn.exe: CMakeFiles/cpp_learn.dir/90_内置函数对象(仿函数)/90_内置函数对象(仿函数).cpp.obj
 cpp_learn.exe: CMakeFiles/cpp_learn.dir/build.make
 cpp_learn.exe: CMakeFiles/cpp_learn.dir/linklibs.rsp
 cpp_learn.exe: CMakeFiles/cpp_learn.dir/objects1.rsp
 cpp_learn.exe: CMakeFiles/cpp_learn.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\29024\Desktop\cpp_learn\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Linking CXX executable cpp_learn.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\29024\Desktop\cpp_learn\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Linking CXX executable cpp_learn.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\cpp_learn.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

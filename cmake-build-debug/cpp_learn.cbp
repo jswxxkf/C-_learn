@@ -188,6 +188,27 @@
 		<Unit filename="C:/Users/29024/Desktop/cpp_learn/78_list容器相关/78_list容器相关.cpp">
 			<Option target="cpp_learn"/>
 		</Unit>
+		<Unit filename="C:/Users/29024/Desktop/cpp_learn/84_map容器相关/84_map容器相关.cpp">
+			<Option target="cpp_learn"/>
+		</Unit>
+		<Unit filename="C:/Users/29024/Desktop/cpp_learn/85_map容器排序/85_map容器排序.cpp">
+			<Option target="cpp_learn"/>
+		</Unit>
+		<Unit filename="C:/Users/29024/Desktop/cpp_learn/86_STL案例2_员工分组/86_STL案例2_员工分组.cpp">
+			<Option target="cpp_learn"/>
+		</Unit>
+		<Unit filename="C:/Users/29024/Desktop/cpp_learn/87_函数对象(仿函数)/87_函数对象(仿函数).cpp">
+			<Option target="cpp_learn"/>
+		</Unit>
+		<Unit filename="C:/Users/29024/Desktop/cpp_learn/88_谓词与一元谓词/88_谓词与一元谓词.cpp">
+			<Option target="cpp_learn"/>
+		</Unit>
+		<Unit filename="C:/Users/29024/Desktop/cpp_learn/89_谓词与二元谓词/89_谓词与二元谓词.cpp">
+			<Option target="cpp_learn"/>
+		</Unit>
+		<Unit filename="C:/Users/29024/Desktop/cpp_learn/90_内置函数对象(仿函数)/90_内置函数对象(仿函数).cpp">
+			<Option target="cpp_learn"/>
+		</Unit>
 		<Unit filename="C:/Users/29024/Desktop/cpp_learn/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
