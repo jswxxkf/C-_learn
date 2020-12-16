@@ -38,19 +38,19 @@ cmake_force:
 SHELL = cmd.exe
 
 # The CMake executable.
-CMAKE_COMMAND = "D:\Program Files\JetBrains\CLion 2020.1.1\bin\cmake\win\bin\cmake.exe"
+CMAKE_COMMAND = "C:\Program Files\JetBrains\CLion 2020.1.1\bin\cmake\win\bin\cmake.exe"
 
 # The command to remove a file.
-RM = "D:\Program Files\JetBrains\CLion 2020.1.1\bin\cmake\win\bin\cmake.exe" -E remove -f
+RM = "C:\Program Files\JetBrains\CLion 2020.1.1\bin\cmake\win\bin\cmake.exe" -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\Administrator\Desktop\cpp_learn
+CMAKE_SOURCE_DIR = C:\Users\29024\Desktop\cpp_learn
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\Administrator\Desktop\cpp_learn\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\29024\Desktop\cpp_learn\cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -58,7 +58,7 @@ CMAKE_BINARY_DIR = C:\Users\Administrator\Desktop\cpp_learn\cmake-build-debug
 # Special rule for the target edit_cache
 edit_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
-	"D:\Program Files\JetBrains\CLion 2020.1.1\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available."
+	"C:\Program Files\JetBrains\CLion 2020.1.1\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available."
 .PHONY : edit_cache
 
 # Special rule for the target edit_cache
@@ -69,7 +69,7 @@ edit_cache/fast: edit_cache
 # Special rule for the target rebuild_cache
 rebuild_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
-	"D:\Program Files\JetBrains\CLion 2020.1.1\bin\cmake\win\bin\cmake.exe" -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
+	"C:\Program Files\JetBrains\CLion 2020.1.1\bin\cmake\win\bin\cmake.exe" -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
 .PHONY : rebuild_cache
 
 # Special rule for the target rebuild_cache
@@ -79,9 +79,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Administrator\Desktop\cpp_learn\cmake-build-debug\CMakeFiles C:\Users\Administrator\Desktop\cpp_learn\cmake-build-debug\CMakeFiles\progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\29024\Desktop\cpp_learn\cmake-build-debug\CMakeFiles C:\Users\29024\Desktop\cpp_learn\cmake-build-debug\CMakeFiles\progress.marks
 	$(MAKE) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\Administrator\Desktop\cpp_learn\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\29024\Desktop\cpp_learn\cmake-build-debug\CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -1283,6 +1283,114 @@ cpp_learn/fast:
 	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/92_常用查找算法/92_常用查找算法.cpp.s
 .PHONY : 92_常用查找算法/92_常用查找算法.cpp.s
 
+93_常用排序算法/93_常用排序算法.obj: 93_常用排序算法/93_常用排序算法.cpp.obj
+
+.PHONY : 93_常用排序算法/93_常用排序算法.obj
+
+# target to build an object file
+93_常用排序算法/93_常用排序算法.cpp.obj:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/93_常用排序算法/93_常用排序算法.cpp.obj
+.PHONY : 93_常用排序算法/93_常用排序算法.cpp.obj
+
+93_常用排序算法/93_常用排序算法.i: 93_常用排序算法/93_常用排序算法.cpp.i
+
+.PHONY : 93_常用排序算法/93_常用排序算法.i
+
+# target to preprocess a source file
+93_常用排序算法/93_常用排序算法.cpp.i:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/93_常用排序算法/93_常用排序算法.cpp.i
+.PHONY : 93_常用排序算法/93_常用排序算法.cpp.i
+
+93_常用排序算法/93_常用排序算法.s: 93_常用排序算法/93_常用排序算法.cpp.s
+
+.PHONY : 93_常用排序算法/93_常用排序算法.s
+
+# target to generate assembly for a file
+93_常用排序算法/93_常用排序算法.cpp.s:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/93_常用排序算法/93_常用排序算法.cpp.s
+.PHONY : 93_常用排序算法/93_常用排序算法.cpp.s
+
+94_常用拷贝和替换算法/94_常用拷贝和替换算法.obj: 94_常用拷贝和替换算法/94_常用拷贝和替换算法.cpp.obj
+
+.PHONY : 94_常用拷贝和替换算法/94_常用拷贝和替换算法.obj
+
+# target to build an object file
+94_常用拷贝和替换算法/94_常用拷贝和替换算法.cpp.obj:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/94_常用拷贝和替换算法/94_常用拷贝和替换算法.cpp.obj
+.PHONY : 94_常用拷贝和替换算法/94_常用拷贝和替换算法.cpp.obj
+
+94_常用拷贝和替换算法/94_常用拷贝和替换算法.i: 94_常用拷贝和替换算法/94_常用拷贝和替换算法.cpp.i
+
+.PHONY : 94_常用拷贝和替换算法/94_常用拷贝和替换算法.i
+
+# target to preprocess a source file
+94_常用拷贝和替换算法/94_常用拷贝和替换算法.cpp.i:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/94_常用拷贝和替换算法/94_常用拷贝和替换算法.cpp.i
+.PHONY : 94_常用拷贝和替换算法/94_常用拷贝和替换算法.cpp.i
+
+94_常用拷贝和替换算法/94_常用拷贝和替换算法.s: 94_常用拷贝和替换算法/94_常用拷贝和替换算法.cpp.s
+
+.PHONY : 94_常用拷贝和替换算法/94_常用拷贝和替换算法.s
+
+# target to generate assembly for a file
+94_常用拷贝和替换算法/94_常用拷贝和替换算法.cpp.s:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/94_常用拷贝和替换算法/94_常用拷贝和替换算法.cpp.s
+.PHONY : 94_常用拷贝和替换算法/94_常用拷贝和替换算法.cpp.s
+
+95_常用算术生成算法/95_常用算术生成算法.obj: 95_常用算术生成算法/95_常用算术生成算法.cpp.obj
+
+.PHONY : 95_常用算术生成算法/95_常用算术生成算法.obj
+
+# target to build an object file
+95_常用算术生成算法/95_常用算术生成算法.cpp.obj:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/95_常用算术生成算法/95_常用算术生成算法.cpp.obj
+.PHONY : 95_常用算术生成算法/95_常用算术生成算法.cpp.obj
+
+95_常用算术生成算法/95_常用算术生成算法.i: 95_常用算术生成算法/95_常用算术生成算法.cpp.i
+
+.PHONY : 95_常用算术生成算法/95_常用算术生成算法.i
+
+# target to preprocess a source file
+95_常用算术生成算法/95_常用算术生成算法.cpp.i:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/95_常用算术生成算法/95_常用算术生成算法.cpp.i
+.PHONY : 95_常用算术生成算法/95_常用算术生成算法.cpp.i
+
+95_常用算术生成算法/95_常用算术生成算法.s: 95_常用算术生成算法/95_常用算术生成算法.cpp.s
+
+.PHONY : 95_常用算术生成算法/95_常用算术生成算法.s
+
+# target to generate assembly for a file
+95_常用算术生成算法/95_常用算术生成算法.cpp.s:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/95_常用算术生成算法/95_常用算术生成算法.cpp.s
+.PHONY : 95_常用算术生成算法/95_常用算术生成算法.cpp.s
+
+96_常用集合算法/96_常用集合算法.obj: 96_常用集合算法/96_常用集合算法.cpp.obj
+
+.PHONY : 96_常用集合算法/96_常用集合算法.obj
+
+# target to build an object file
+96_常用集合算法/96_常用集合算法.cpp.obj:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/96_常用集合算法/96_常用集合算法.cpp.obj
+.PHONY : 96_常用集合算法/96_常用集合算法.cpp.obj
+
+96_常用集合算法/96_常用集合算法.i: 96_常用集合算法/96_常用集合算法.cpp.i
+
+.PHONY : 96_常用集合算法/96_常用集合算法.i
+
+# target to preprocess a source file
+96_常用集合算法/96_常用集合算法.cpp.i:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/96_常用集合算法/96_常用集合算法.cpp.i
+.PHONY : 96_常用集合算法/96_常用集合算法.cpp.i
+
+96_常用集合算法/96_常用集合算法.s: 96_常用集合算法/96_常用集合算法.cpp.s
+
+.PHONY : 96_常用集合算法/96_常用集合算法.s
+
+# target to generate assembly for a file
+96_常用集合算法/96_常用集合算法.cpp.s:
+	$(MAKE) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/96_常用集合算法/96_常用集合算法.cpp.s
+.PHONY : 96_常用集合算法/96_常用集合算法.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -1421,6 +1529,18 @@ help:
 	@echo ... 92_常用查找算法/92_常用查找算法.obj
 	@echo ... 92_常用查找算法/92_常用查找算法.i
 	@echo ... 92_常用查找算法/92_常用查找算法.s
+	@echo ... 93_常用排序算法/93_常用排序算法.obj
+	@echo ... 93_常用排序算法/93_常用排序算法.i
+	@echo ... 93_常用排序算法/93_常用排序算法.s
+	@echo ... 94_常用拷贝和替换算法/94_常用拷贝和替换算法.obj
+	@echo ... 94_常用拷贝和替换算法/94_常用拷贝和替换算法.i
+	@echo ... 94_常用拷贝和替换算法/94_常用拷贝和替换算法.s
+	@echo ... 95_常用算术生成算法/95_常用算术生成算法.obj
+	@echo ... 95_常用算术生成算法/95_常用算术生成算法.i
+	@echo ... 95_常用算术生成算法/95_常用算术生成算法.s
+	@echo ... 96_常用集合算法/96_常用集合算法.obj
+	@echo ... 96_常用集合算法/96_常用集合算法.i
+	@echo ... 96_常用集合算法/96_常用集合算法.s
 .PHONY : help
 
 
